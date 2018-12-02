@@ -1,0 +1,3142 @@
+state,state_name,county,Gaussian_Mixture_label,Affinity_Propagation_label,Agglomerative_Clustering_label,KMeans_label
+AK,Alaska,Skagway-Hoonah-Angoon,1,19,1,0
+AK,Alaska,Wrangell-Petersburg,2,87,2,2
+AL,Alabama,Macon,1,85,1,0
+AL,Alabama,Pickens,0,102,2,2
+AL,Alabama,Conecuh,0,120,2,2
+AL,Alabama,Perry,2,87,0,2
+AL,Alabama,Walker,0,101,2,2
+AL,Alabama,Mobile,1,45,1,0
+AL,Alabama,Lowndes,0,105,2,2
+AL,Alabama,Greene,1,85,1,0
+AL,Alabama,Wilcox,2,72,0,2
+AL,Alabama,Sumter,2,33,0,2
+AL,Alabama,Dallas,1,40,2,2
+AL,Alabama,Escambia,2,69,0,1
+AZ,Arizona,Apache,0,61,1,0
+GA,Georgia,Clay,2,53,2,2
+KY,Kentucky,Bell,0,80,2,0
+LA,Louisiana,Madison,2,9,0,1
+MS,Mississippi,Holmes,2,16,0,1
+ND,North Dakota,Stark,0,27,2,2
+NM,New Mexico,McKinley,1,29,1,0
+OK,Oklahoma,Adair,0,101,2,2
+SD,South Dakota,Lincoln,2,103,0,1
+SD,South Dakota,Union,1,93,1,0
+SD,South Dakota,McCook,0,81,2,2
+SD,South Dakota,Hand,1,85,1,0
+SD,South Dakota,Stanley,0,120,2,2
+SD,South Dakota,Hyde,0,57,0,2
+SD,South Dakota,Kingsbury,0,83,2,2
+SD,South Dakota,Custer,2,2,2,1
+SD,South Dakota,Deuel,1,22,1,0
+SD,South Dakota,Sully,1,1,1,0
+SD,South Dakota,Aurora,0,97,0,1
+TN,Tennessee,Grundy,1,62,1,2
+TN,Tennessee,Campbell,1,68,1,0
+TN,Tennessee,Haywood,2,76,0,1
+TN,Tennessee,Hardeman,1,44,1,0
+TN,Tennessee,Hancock,0,50,1,2
+VA,Virginia,Bedford City,0,23,2,2
+WI,Wisconsin,Menominee,1,59,2,2
+WV,West Virginia,Wayne,2,78,2,1
+WV,West Virginia,Clay,2,98,0,1
+WV,West Virginia,McDowell,1,44,1,0
+WV,West Virginia,Webster,2,16,0,1
+AK,Alaska,Aleutians West,0,18,2,2
+KS,Kansas,Johnson,2,8,0,1
+MN,Minnesota,Washington,2,63,2,2
+ND,North Dakota,Slope,0,34,2,1
+ND,North Dakota,Stutsman,2,32,0,1
+ND,North Dakota,Dickey,1,19,1,0
+ND,North Dakota,Pembina,1,15,1,0
+ND,North Dakota,Burleigh,2,110,0,1
+ND,North Dakota,Oliver,0,18,2,2
+ND,North Dakota,Nelson,2,53,2,2
+ND,North Dakota,Barnes,2,104,0,1
+ND,North Dakota,LaMoure,2,103,0,1
+ND,North Dakota,Cavalier,2,104,0,1
+ND,North Dakota,Divide,2,12,0,1
+ND,North Dakota,Ransom,2,16,0,1
+ND,North Dakota,Foster,0,37,2,2
+ND,North Dakota,Adams,0,81,2,2
+NE,Nebraska,Sarpy,2,33,0,1
+NE,Nebraska,Perkins,1,24,2,2
+NE,Nebraska,Pierce,0,41,0,1
+NE,Nebraska,Cass,2,109,0,1
+NE,Nebraska,Washington,2,79,0,1
+NE,Nebraska,Seward,0,18,2,2
+SD,South Dakota,Walworth,2,98,0,1
+SD,South Dakota,Hanson,0,27,2,1
+SD,South Dakota,Perkins,1,29,1,0
+SD,South Dakota,Brookings,2,4,2,2
+SD,South Dakota,Butte,2,31,2,2
+SD,South Dakota,Spink,0,58,2,1
+SD,South Dakota,Marshall,1,92,1,0
+SD,South Dakota,Harding,2,109,0,1
+SD,South Dakota,Bon Homme,1,99,2,2
+SD,South Dakota,Hutchinson,0,0,2,2
+SD,South Dakota,Meade,0,87,2,2
+SD,South Dakota,Hughes,1,39,1,0
+SD,South Dakota,Lake,1,1,1,0
+TX,Texas,Collin,1,56,1,0
+VA,Virginia,Fairfax,0,18,2,2
+AK,Alaska,North Slope,2,98,0,1
+AK,Alaska,Haines,1,85,1,0
+AK,Alaska,Yakutat,2,79,2,1
+AK,Alaska,Southeast Fairbanks,2,76,0,1
+AK,Alaska,Matanuska-Susitna,1,109,2,2
+AK,Alaska,Bristol Bay,0,36,2,2
+CA,California,San Mateo,1,62,2,2
+CO,Colorado,Boulder,0,82,2,2
+CO,Colorado,Chaffee,0,78,0,1
+CO,Colorado,Yuma,1,39,1,0
+CO,Colorado,Teller,0,87,2,2
+CO,Colorado,Cheyenne,0,2,2,2
+CO,Colorado,La Plata,0,23,2,2
+CO,Colorado,Mineral,2,16,0,1
+CO,Colorado,Hinsdale,0,58,2,1
+CO,Colorado,Ouray,2,55,0,1
+IA,Iowa,Black Hawk,0,58,2,1
+IA,Iowa,Pocahontas,0,18,2,2
+IA,Iowa,Howard,1,114,2,2
+IA,Iowa,Ida,2,35,0,1
+IA,Iowa,Calhoun,1,66,1,0
+IA,Iowa,Wayne,1,22,1,0
+IA,Iowa,Palo Alto,0,27,2,2
+IA,Iowa,Union,1,28,1,0
+IA,Iowa,Franklin,1,85,1,0
+IA,Iowa,Worth,1,64,1,0
+IA,Iowa,Fayette,2,31,0,1
+IA,Iowa,Henry,0,67,2,2
+IA,Iowa,Cass,2,9,0,1
+IA,Iowa,Monroe,2,87,2,2
+IA,Iowa,Van Buren,1,22,1,0
+IA,Iowa,Greene,0,7,1,0
+IA,Iowa,Chickasaw,0,90,2,2
+IA,Iowa,Tama,1,67,1,2
+IA,Iowa,Monona,0,78,0,1
+IA,Iowa,Story,1,114,2,2
+IA,Iowa,Floyd,0,2,2,2
+IA,Iowa,Marshall,0,88,2,1
+IA,Iowa,Cerro Gordo,0,0,2,2
+IA,Iowa,Scott,2,106,0,1
+IA,Iowa,Muscatine,2,12,0,1
+IL,Illinois,Monroe,0,92,1,0
+IL,Illinois,DuPage,0,100,2,2
+KS,Kansas,Kingman,1,15,1,0
+KS,Kansas,Sheridan,1,62,1,0
+KS,Kansas,Linn,0,44,1,0
+KS,Kansas,Barber,2,104,0,1
+KS,Kansas,Ness,0,63,2,2
+KS,Kansas,Rooks,1,65,1,0
+KS,Kansas,Grant,1,49,1,0
+KS,Kansas,Reno,0,6,2,2
+KS,Kansas,Harvey,2,36,2,1
+KS,Kansas,Ellis,2,51,0,1
+KS,Kansas,Rawlins,0,75,2,2
+KS,Kansas,Rush,0,73,0,1
+KS,Kansas,Haskell,1,66,1,0
+KS,Kansas,Stanton,0,0,2,2
+KS,Kansas,Doniphan,2,102,0,1
+KS,Kansas,Harper,1,25,1,0
+KS,Kansas,Jewell,1,85,1,0
+KS,Kansas,Morton,0,90,2,2
+KS,Kansas,Marshall,1,40,2,2
+KS,Kansas,Wichita,1,64,1,0
+MD,Maryland,Carroll,2,12,0,1
+MN,Minnesota,Wadena,0,117,2,2
+MN,Minnesota,Cook,0,88,2,2
+MN,Minnesota,Itasca,2,2,2,2
+MN,Minnesota,Mille Lacs,1,49,1,0
+MT,Montana,Jefferson,0,82,2,2
+MT,Montana,Sheridan,0,75,2,2
+MT,Montana,Stillwater,2,91,2,2
+MT,Montana,Madison,1,71,1,0
+MT,Montana,Richland,0,2,2,2
+MT,Montana,Garfield,0,33,2,1
+NE,Nebraska,Richardson,2,110,0,1
+NE,Nebraska,Hooker,0,0,2,2
+NE,Nebraska,Lancaster,1,114,2,2
+NE,Nebraska,Grant,2,76,0,1
+NE,Nebraska,Gage,1,71,1,0
+NE,Nebraska,Box Butte,0,84,2,2
+NE,Nebraska,Dakota,1,17,2,2
+NE,Nebraska,Hitchcock,2,69,0,1
+NJ,New Jersey,Hunterdon,1,59,0,1
+NJ,New Jersey,Somerset,0,37,2,2
+TX,Texas,Somervell,1,27,0,2
+TX,Texas,Jackson,0,84,2,2
+TX,Texas,Lee,1,99,2,2
+TX,Texas,King,1,7,1,0
+TX,Texas,Scurry,1,54,1,0
+TX,Texas,Coke,0,88,2,2
+TX,Texas,Wheeler,0,0,2,2
+TX,Texas,Dickens,1,43,1,0
+TX,Texas,Pecos,0,0,2,2
+TX,Texas,Yoakum,1,1,1,0
+TX,Texas,Hamilton,2,76,0,1
+TX,Texas,Ochiltree,1,28,1,0
+TX,Texas,Lavaca,1,54,1,0
+TX,Texas,Fayette,0,2,2,2
+TX,Texas,Johnson,0,82,2,1
+TX,Texas,Gillespie,0,80,2,2
+TX,Texas,Panola,0,4,2,2
+TX,Texas,Clay,2,12,0,1
+TX,Texas,Goliad,2,32,0,1
+TX,Texas,Terrell,2,106,0,1
+TX,Texas,Kaufman,0,69,0,1
+TX,Texas,Live Oak,0,11,1,2
+TX,Texas,Howard,0,23,2,1
+TX,Texas,Winkler,0,6,2,2
+TX,Texas,Hood,0,52,0,1
+UT,Utah,Davis,1,50,2,0
+UT,Utah,Daggett,1,99,1,2
+VA,Virginia,Chesapeake City,0,4,2,2
+VA,Virginia,Albemarle,0,67,1,2
+VA,Virginia,Fauquier,2,4,2,2
+VA,Virginia,Clarke,1,45,1,0
+VA,Virginia,Gloucester,1,99,1,2
+VA,Virginia,Bedford,1,5,2,1
+VA,Virginia,Frederick,0,11,2,2
+VA,Virginia,Virginia Beach City,1,64,1,0
+VA,Virginia,James City,0,101,2,1
+VA,Virginia,Botetourt,0,4,2,2
+WA,Washington,King,1,45,1,0
+WI,Wisconsin,St. Croix,2,12,0,1
+WI,Wisconsin,Washington,0,2,2,2
+WY,Wyoming,Lincoln,1,20,2,2
+WY,Wyoming,Park,0,14,2,1
+WY,Wyoming,Teton,2,55,0,1
+WY,Wyoming,Crook,0,2,2,1
+WY,Wyoming,Converse,2,55,0,1
+WY,Wyoming,Campbell,0,0,2,2
+AZ,Arizona,Greenlee,2,2,2,2
+CA,California,Contra Costa,2,103,0,1
+CA,California,Nevada,1,6,2,2
+CA,California,Placer,1,28,1,0
+CA,California,Amador,1,24,2,2
+CA,California,Calaveras,2,32,0,1
+CO,Colorado,Rio Grande,0,120,2,2
+CO,Colorado,Delta,0,84,2,2
+CO,Colorado,Dolores,1,42,1,0
+CO,Colorado,Custer,0,118,2,2
+CT,Connecticut,New Haven,2,76,0,1
+CT,Connecticut,New London,2,33,0,1
+CT,Connecticut,Windham,1,15,1,0
+DE,Delaware,New Castle,2,51,2,1
+DE,Delaware,Sussex,1,92,1,0
+FL,Florida,Palm Beach,2,9,0,1
+FL,Florida,St. Johns,1,64,1,0
+GA,Georgia,Paulding,0,18,2,2
+GA,Georgia,Effingham,1,7,1,0
+GA,Georgia,Lee,1,62,1,0
+GA,Georgia,Fulton,0,75,2,2
+GA,Georgia,Gwinnett,2,12,0,1
+GA,Georgia,Bryan,1,115,1,0
+GA,Georgia,Coweta,0,47,2,2
+ID,Idaho,Franklin,0,24,2,2
+ID,Idaho,Fremont,0,41,0,1
+ID,Idaho,Bonner,0,84,2,0
+ID,Idaho,Bear Lake,0,105,2,1
+ID,Idaho,Oneida,0,24,2,2
+ID,Idaho,Minidoka,2,72,0,1
+ID,Idaho,Latah,2,36,2,1
+ID,Idaho,Custer,2,113,0,1
+ID,Idaho,Idaho,1,54,1,0
+ID,Idaho,Boise,2,9,0,1
+IL,Illinois,Montgomery,0,53,2,2
+IL,Illinois,Cass,1,93,1,0
+IL,Illinois,Christian,1,48,2,2
+IL,Illinois,Logan,0,81,2,2
+IL,Illinois,Scott,1,42,1,0
+IL,Illinois,Cumberland,0,100,0,1
+IL,Illinois,Johnson,0,36,0,1
+IL,Illinois,Morgan,0,6,2,2
+IL,Illinois,Pope,1,66,1,0
+IL,Illinois,Lawrence,1,22,1,0
+IL,Illinois,Iroquois,1,83,2,2
+IL,Illinois,Adams,1,20,2,2
+IL,Illinois,White,1,44,1,0
+IL,Illinois,Randolph,2,36,0,1
+IL,Illinois,Sangamon,0,102,2,1
+IL,Illinois,Rock Island,2,110,0,1
+IL,Illinois,Wabash,1,85,1,0
+IL,Illinois,Macoupin,1,1,1,0
+IL,Illinois,Fulton,1,45,1,0
+IL,Illinois,Shelby,2,21,0,1
+IL,Illinois,Hancock,2,89,0,1
+IL,Illinois,Perry,2,32,0,1
+IN,Indiana,Hancock,2,35,0,1
+MD,Maryland,Worcester,0,120,2,2
+MD,Maryland,Kent,2,60,2,1
+MD,Maryland,Garrett,1,45,1,0
+MD,Maryland,St. Mary's,2,76,0,1
+ME,Maine,Knox,0,36,0,1
+ME,Maine,Lincoln,2,113,0,1
+MI,Michigan,Oakland,2,79,0,2
+MI,Michigan,Grand Traverse,0,102,2,2
+MI,Michigan,Eaton,1,71,1,0
+MI,Michigan,Leelanau,2,79,0,1
+MI,Michigan,Ionia,0,18,2,2
+MI,Michigan,Emmet,1,22,1,0
+MI,Michigan,Barry,1,6,1,2
+MO,Missouri,St. Louis,0,70,2,2
+MO,Missouri,Andrew,2,110,0,1
+MO,Missouri,Ralls,2,21,0,1
+MO,Missouri,St. Charles,1,65,1,0
+MS,Mississippi,Greene,0,120,2,2
+MS,Mississippi,Rankin,1,45,1,0
+MT,Montana,Mineral,2,33,2,1
+MT,Montana,Lincoln,0,53,2,2
+MT,Montana,Phillips,2,98,0,1
+MT,Montana,Golden Valley,1,1,1,0
+MT,Montana,Musselshell,2,16,0,1
+NC,North Carolina,Dare,0,4,2,2
+NC,North Carolina,Currituck,2,51,2,2
+NC,North Carolina,Union,1,3,1,0
+NC,North Carolina,Durham,0,90,2,2
+NC,North Carolina,Orange,1,107,2,2
+NC,North Carolina,Polk,2,98,0,1
+NH,New Hampshire,Grafton,1,29,1,0
+NH,New Hampshire,Sullivan,0,2,2,2
+NJ,New Jersey,Mercer,0,120,2,2
+NJ,New Jersey,Hudson,2,16,0,1
+NM,New Mexico,Grant,0,27,2,2
+NM,New Mexico,Guadalupe,0,23,2,2
+NM,New Mexico,Santa Fe,2,32,0,1
+NV,Nevada,Humboldt,1,20,1,0
+NV,Nevada,Douglas,2,73,0,1
+NY,New York,Schoharie,1,75,2,2
+NY,New York,Seneca,1,18,2,2
+NY,New York,Ontario,1,47,2,0
+NY,New York,Columbia,1,45,1,0
+NY,New York,Washington,0,4,2,2
+NY,New York,New York,2,110,0,1
+NY,New York,Niagara,0,58,2,1
+NY,New York,Wayne,0,84,2,2
+NY,New York,Warren,1,71,1,0
+NY,New York,Richmond,1,40,2,2
+NY,New York,Lewis,1,120,2,2
+NY,New York,Steuben,0,26,0,1
+NY,New York,Cayuga,1,25,1,0
+NY,New York,Greene,2,91,2,2
+NY,New York,Madison,1,1,1,0
+NY,New York,Rockland,1,99,2,2
+NY,New York,Orange,0,81,2,2
+OH,Ohio,Putnam,0,83,2,0
+OR,Oregon,Clackamas,0,81,2,2
+PA,Pennsylvania,Montgomery,2,12,0,1
+SD,South Dakota,Jackson,2,32,0,1
+TX,Texas,Duval,2,30,2,2
+TX,Texas,Hidalgo,1,114,2,2
+TX,Texas,La Salle,2,32,0,1
+TX,Texas,Nacogdoches,1,116,1,0
+TX,Texas,Lamb,1,20,1,2
+TX,Texas,Cochran,2,113,0,1
+TX,Texas,Kinney,1,43,1,0
+TX,Texas,Brazos,1,17,2,0
+TX,Texas,Cherokee,0,105,2,2
+TX,Texas,Shelby,0,0,2,2
+UT,Utah,Salt Lake,1,62,1,0
+UT,Utah,Weber,0,117,2,2
+VA,Virginia,Greensville,0,120,2,2
+VA,Virginia,Lunenburg,0,0,2,0
+VA,Virginia,Appomattox,0,101,2,2
+VA,Virginia,Fredericksburg City,1,59,2,2
+VA,Virginia,Winchester City,1,62,2,2
+VA,Virginia,Campbell,2,119,0,1
+VA,Virginia,Page,2,9,0,1
+VA,Virginia,Wythe,1,68,1,0
+VA,Virginia,Charles City,2,16,0,1
+VA,Virginia,Covington City,0,120,2,2
+VA,Virginia,Pittsylvania,1,20,2,2
+VA,Virginia,Montgomery,2,35,0,1
+VT,Vermont,Windham,2,78,0,1
+VT,Vermont,Franklin,1,45,1,0
+VT,Vermont,Caledonia,1,62,1,0
+WA,Washington,Lincoln,1,71,1,0
+WA,Washington,Skagit,2,72,0,1
+WA,Washington,Thurston,0,58,2,1
+WA,Washington,Chelan,1,1,1,0
+WA,Washington,Jefferson,1,5,2,2
+WI,Wisconsin,Price,0,73,0,1
+WI,Wisconsin,Taylor,2,58,2,2
+WI,Wisconsin,Racine,2,72,2,2
+WI,Wisconsin,Sauk,0,100,2,2
+WI,Wisconsin,Shawano,1,17,2,2
+WI,Wisconsin,Vernon,0,6,2,2
+WI,Wisconsin,Richland,0,26,0,1
+WI,Wisconsin,Langlade,2,112,0,1
+WI,Wisconsin,Green Lake,0,6,2,2
+WI,Wisconsin,Douglas,2,88,2,2
+WI,Wisconsin,Dunn,0,27,2,1
+WI,Wisconsin,Kenosha,0,23,2,2
+WI,Wisconsin,Monroe,2,16,0,1
+WI,Wisconsin,Polk,1,115,1,0
+WY,Wyoming,Fremont,2,12,0,1
+WY,Wyoming,Niobrara,0,67,2,2
+AK,Alaska,Lake and Peninsula,0,120,2,2
+AK,Alaska,Dillingham,1,54,1,0
+AR,Arkansas,Grant,0,75,2,1
+AR,Arkansas,Hot Spring,2,91,2,2
+AR,Arkansas,Faulkner,0,14,2,1
+AR,Arkansas,Cleveland,0,2,2,2
+AZ,Arizona,Coconino,2,32,0,1
+AZ,Arizona,La Paz,1,45,1,0
+AZ,Arizona,Mohave,2,89,0,1
+CA,California,Shasta,0,40,2,2
+CA,California,Riverside,2,103,0,1
+CA,California,Del Norte,1,118,2,2
+CA,California,Colusa,2,89,0,1
+CA,California,Kings,2,4,2,2
+CA,California,Yuba,1,67,2,2
+CA,California,Kern,1,22,1,0
+CA,California,Tehama,1,54,1,0
+FL,Florida,Washington,2,16,0,1
+FL,Florida,Citrus,1,64,1,0
+FL,Florida,Walton,1,68,1,0
+FL,Florida,Columbia,1,94,1,0
+FL,Florida,Hillsborough,2,113,0,1
+FL,Florida,Taylor,2,79,0,1
+FL,Florida,Jackson,0,97,0,1
+FL,Florida,Jefferson,1,6,2,2
+FL,Florida,Hernando,1,28,1,0
+FL,Florida,Volusia,1,7,1,0
+FL,Florida,Highlands,1,54,1,0
+GA,Georgia,Peach,0,90,2,2
+GA,Georgia,Bacon,2,12,0,1
+GA,Georgia,Pulaski,1,44,1,0
+GA,Georgia,Floyd,0,78,0,1
+GA,Georgia,Jeff Davis,0,47,1,0
+GA,Georgia,Lamar,2,55,0,1
+GA,Georgia,Carroll,1,67,2,2
+GA,Georgia,Troup,0,88,2,2
+GA,Georgia,Franklin,0,26,0,1
+GA,Georgia,Schley,1,22,1,0
+GA,Georgia,Lumpkin,1,20,2,2
+GA,Georgia,Wayne,0,117,2,2
+GA,Georgia,Heard,0,81,2,2
+GA,Georgia,Lincoln,0,73,0,1
+GA,Georgia,Gordon,2,89,0,1
+GA,Georgia,Elbert,0,120,2,2
+GA,Georgia,Rabun,0,63,2,2
+GA,Georgia,Brantley,1,62,1,0
+GA,Georgia,Wheeler,0,120,2,2
+ID,Idaho,Power,0,75,2,2
+IL,Illinois,Coles,1,71,1,0
+IL,Illinois,Pulaski,0,18,2,2
+IN,Indiana,Clark,2,12,0,1
+IN,Indiana,Rush,1,83,2,0
+IN,Indiana,Blackford,2,21,0,1
+IN,Indiana,Monroe,0,118,2,2
+IN,Indiana,Jefferson,1,62,1,0
+IN,Indiana,Cass,0,41,0,1
+IN,Indiana,Knox,2,77,0,1
+IN,Indiana,Martin,2,119,2,1
+IN,Indiana,Washington,2,33,2,2
+IN,Indiana,Owen,0,67,2,2
+IN,Indiana,Jackson,0,14,2,2
+IN,Indiana,Benton,0,60,2,1
+IN,Indiana,Adams,0,6,2,2
+IN,Indiana,Newton,2,12,0,1
+IN,Indiana,Pulaski,0,18,2,2
+KY,Kentucky,Bracken,0,4,2,2
+KY,Kentucky,Hopkins,1,15,1,0
+KY,Kentucky,Harrison,0,23,2,2
+KY,Kentucky,Graves,2,106,0,1
+KY,Kentucky,Boyd,1,71,1,0
+KY,Kentucky,Owen,2,58,2,2
+KY,Kentucky,Daviess,0,94,1,0
+KY,Kentucky,Livingston,0,30,2,2
+KY,Kentucky,Ballard,2,4,2,2
+KY,Kentucky,Hardin,2,32,0,1
+KY,Kentucky,Jessamine,1,7,1,0
+KY,Kentucky,Trigg,2,16,0,1
+KY,Kentucky,Warren,2,119,0,1
+KY,Kentucky,Meade,2,72,2,1
+KY,Kentucky,Clark,1,28,1,0
+LA,Louisiana,Pointe Coupee,1,44,1,0
+LA,Louisiana,East Feliciana,0,75,2,2
+LA,Louisiana,La Salle,2,117,2,2
+LA,Louisiana,St. Martin,1,86,1,0
+LA,Louisiana,Assumption,2,78,2,1
+MA,Massachusetts,Franklin,1,68,1,0
+ME,Maine,Penobscot,1,7,1,0
+ME,Maine,Oxford,2,77,0,1
+MI,Michigan,Mackinac,2,73,0,1
+MI,Michigan,Oscoda,1,20,2,2
+MI,Michigan,Muskegon,2,14,2,1
+MI,Michigan,Chippewa,1,74,2,0
+MI,Michigan,Mecosta,0,18,2,2
+MI,Michigan,Osceola,1,7,1,0
+MO,Missouri,Henry,1,3,1,0
+MO,Missouri,Mercer,2,78,0,1
+MO,Missouri,Chariton,1,49,1,0
+MO,Missouri,Randolph,2,110,2,2
+MO,Missouri,Harrison,1,39,1,0
+MO,Missouri,Bates,0,23,2,1
+MO,Missouri,Saline,0,120,2,2
+MO,Missouri,Jasper,0,70,2,2
+MO,Missouri,Barry,2,73,0,1
+MO,Missouri,Montgomery,2,76,0,1
+MO,Missouri,Nodaway,0,82,2,2
+MO,Missouri,Miller,0,27,2,2
+MO,Missouri,St. Clair,1,39,1,0
+MO,Missouri,Grundy,1,71,1,0
+MO,Missouri,Vernon,0,82,2,1
+MO,Missouri,Lawrence,2,120,2,2
+MO,Missouri,Texas,0,40,2,2
+MS,Mississippi,Warren,2,98,0,1
+MS,Mississippi,Jones,0,53,2,2
+MS,Mississippi,Prentiss,0,37,2,2
+MS,Mississippi,Lowndes,2,72,0,2
+MS,Mississippi,Tallahatchie,2,8,0,1
+MS,Mississippi,Panola,2,21,0,1
+MS,Mississippi,Lauderdale,2,14,2,1
+MS,Mississippi,Wilkinson,1,111,1,2
+MS,Mississippi,Union,2,106,0,1
+MS,Mississippi,Alcorn,1,59,2,2
+MS,Mississippi,Grenada,2,2,0,2
+MS,Mississippi,Clarke,0,40,2,2
+MS,Mississippi,Yalobusha,2,35,0,1
+MS,Mississippi,Newton,0,96,2,2
+NC,North Carolina,Clay,2,16,0,1
+NC,North Carolina,Pitt,0,84,2,2
+NC,North Carolina,Graham,0,89,2,1
+NC,North Carolina,Randolph,0,84,2,2
+NC,North Carolina,Martin,0,73,0,1
+NC,North Carolina,Jackson,2,51,0,1
+NC,North Carolina,Alamance,1,99,1,2
+NC,North Carolina,Caldwell,2,120,2,2
+NC,North Carolina,Harnett,0,11,1,2
+NC,North Carolina,Cumberland,2,4,2,2
+ND,North Dakota,Benson,1,42,1,0
+NM,New Mexico,Torrance,2,51,0,1
+NM,New Mexico,Roosevelt,0,94,2,2
+NV,Nevada,Nye,2,113,0,1
+OH,Ohio,Preble,1,93,1,0
+OH,Ohio,Defiance,0,58,2,2
+OH,Ohio,Hamilton,0,90,2,2
+OH,Ohio,Summit,0,75,2,2
+OH,Ohio,Logan,1,7,1,2
+OH,Ohio,Carroll,1,99,2,2
+OH,Ohio,Williams,0,102,0,1
+OH,Ohio,Crawford,2,4,2,2
+OH,Ohio,Butler,0,48,2,2
+OH,Ohio,Cuyahoga,0,23,2,2
+OH,Ohio,Champaign,2,109,0,1
+OH,Ohio,Stark,0,102,0,1
+OK,Oklahoma,Harper,0,102,2,1
+OK,Oklahoma,Washita,0,75,2,2
+OK,Oklahoma,Logan,0,117,2,2
+OK,Oklahoma,Noble,0,41,0,1
+OK,Oklahoma,Tulsa,1,96,2,2
+OK,Oklahoma,Dewey,2,9,0,1
+OK,Oklahoma,Roger Mills,1,66,1,0
+OK,Oklahoma,Beckham,1,10,1,0
+OK,Oklahoma,Wagoner,2,97,0,1
+OR,Oregon,Multnomah,0,67,2,2
+OR,Oregon,Yamhill,1,45,1,0
+OR,Oregon,Clatsop,2,78,0,1
+OR,Oregon,Morrow,0,105,2,2
+OR,Oregon,Sherman,0,84,2,2
+OR,Oregon,Marion,2,79,2,2
+OR,Oregon,Benton,0,26,2,1
+PA,Pennsylvania,Bradford,0,120,2,2
+PA,Pennsylvania,Carbon,0,53,2,2
+PA,Pennsylvania,Indiana,0,105,2,2
+PA,Pennsylvania,Dauphin,0,57,2,2
+PA,Pennsylvania,Venango,1,39,1,0
+PA,Pennsylvania,Fulton,1,66,1,0
+PA,Pennsylvania,Mercer,1,71,1,0
+PA,Pennsylvania,Schuylkill,0,81,2,2
+PA,Pennsylvania,Cameron,2,55,0,1
+PA,Pennsylvania,Somerset,0,83,2,2
+PA,Pennsylvania,Luzerne,2,51,0,2
+PA,Pennsylvania,Sullivan,0,114,1,2
+PA,Pennsylvania,Juniata,0,96,2,0
+PA,Pennsylvania,Clinton,1,84,2,2
+SC,South Carolina,Greenwood,1,45,1,0
+SC,South Carolina,Calhoun,0,40,2,2
+SC,South Carolina,McCormick,0,57,2,2
+SC,South Carolina,Newberry,1,95,2,2
+SC,South Carolina,Sumter,0,11,1,2
+SD,South Dakota,Ziebach,0,30,2,2
+TX,Texas,Hudspeth,0,88,2,2
+TX,Texas,Starr,2,113,0,1
+VA,Virginia,Petersburg City,0,26,0,1
+VA,Virginia,Danville City,0,58,2,1
+VA,Virginia,Franklin City,0,50,2,0
+WA,Washington,Adams,0,107,2,2
+WA,Washington,Pend Oreille,1,17,2,0
+WA,Washington,Wahkiakum,2,12,0,1
+WI,Wisconsin,Sawyer,2,8,0,1
+WI,Wisconsin,Milwaukee,1,1,1,0
+AL,Alabama,Jefferson,2,109,0,1
+AL,Alabama,Tuscaloosa,0,80,2,2
+AL,Alabama,Lee,2,76,0,1
+AL,Alabama,Blount,1,56,2,0
+AL,Alabama,Houston,0,84,2,0
+AL,Alabama,Morgan,1,102,2,2
+AR,Arkansas,Johnson,0,46,2,2
+AR,Arkansas,Sharp,1,13,1,0
+AR,Arkansas,Jefferson,2,76,0,1
+AR,Arkansas,Madison,0,74,2,2
+AR,Arkansas,Sevier,1,99,2,2
+AR,Arkansas,Poinsett,1,13,1,0
+AR,Arkansas,Ouachita,2,2,0,1
+AR,Arkansas,Van Buren,0,67,2,2
+AR,Arkansas,Lafayette,2,105,2,2
+AR,Arkansas,Lawrence,0,4,2,2
+AR,Arkansas,Searcy,2,103,0,1
+AR,Arkansas,Ashley,0,105,2,2
+FL,Florida,Hardee,1,43,1,0
+FL,Florida,Gadsden,2,2,2,2
+FL,Florida,Okeechobee,2,33,2,1
+GA,Georgia,Grady,2,34,2,2
+GA,Georgia,Emanuel,2,89,0,1
+GA,Georgia,Burke,2,69,0,1
+GA,Georgia,Hancock,0,81,2,2
+GA,Georgia,Stewart,1,85,1,0
+GA,Georgia,Mitchell,2,76,0,1
+GA,Georgia,Dougherty,0,63,2,2
+GA,Georgia,Atkinson,2,12,0,1
+GA,Georgia,Terrell,1,24,2,2
+ID,Idaho,Clark,1,20,1,2
+IN,Indiana,Wayne,1,39,1,0
+KY,Kentucky,Russell,0,53,2,2
+KY,Kentucky,Fulton,1,17,1,2
+KY,Kentucky,Menifee,1,115,1,0
+KY,Kentucky,Hart,0,109,0,1
+KY,Kentucky,Metcalfe,2,14,2,1
+KY,Kentucky,Carroll,2,77,0,1
+KY,Kentucky,Butler,1,15,1,0
+KY,Kentucky,Pulaski,1,107,2,2
+KY,Kentucky,Union,1,74,1,2
+LA,Louisiana,Concordia,1,49,1,0
+LA,Louisiana,Avoyelles,0,34,0,1
+MA,Massachusetts,Hampden,2,76,0,1
+MO,Missouri,Mississippi,1,7,1,0
+MS,Mississippi,Washington,0,18,2,2
+MS,Mississippi,Coahoma,2,21,0,1
+MS,Mississippi,Sharkey,2,26,0,1
+MT,Montana,Blaine,2,16,0,1
+NC,North Carolina,Scotland,1,10,1,0
+ND,North Dakota,Sioux,1,49,1,0
+ND,North Dakota,Rolette,2,105,0,2
+OH,Ohio,Meigs,0,74,2,2
+OH,Ohio,Jackson,1,62,1,0
+OH,Ohio,Lawrence,0,82,2,1
+OH,Ohio,Lucas,0,102,2,2
+OH,Ohio,Vinton,1,17,2,2
+OH,Ohio,Adams,0,18,2,2
+OH,Ohio,Gallia,0,0,2,2
+OK,Oklahoma,Pittsburg,1,1,1,0
+OK,Oklahoma,Bryan,1,71,1,0
+OK,Oklahoma,Pottawatomie,0,78,0,1
+OK,Oklahoma,Latimer,2,9,0,2
+OK,Oklahoma,Atoka,0,33,2,2
+OK,Oklahoma,Harmon,1,85,1,0
+OK,Oklahoma,Caddo,1,39,1,0
+OK,Oklahoma,Haskell,2,89,0,1
+OK,Oklahoma,Marshall,1,45,1,0
+OK,Oklahoma,Jefferson,1,53,2,2
+OK,Oklahoma,Nowata,0,18,2,2
+SC,South Carolina,Darlington,0,117,2,0
+SC,South Carolina,Marion,2,31,2,2
+SC,South Carolina,Barnwell,0,102,2,2
+TN,Tennessee,Anderson,0,73,0,1
+TN,Tennessee,Cheatham,0,40,2,2
+TN,Tennessee,Maury,0,117,2,2
+TN,Tennessee,Humphreys,1,64,1,0
+TN,Tennessee,Madison,0,48,2,2
+TN,Tennessee,Trousdale,2,58,2,1
+TN,Tennessee,Hamilton,2,119,0,1
+TN,Tennessee,Washington,1,19,1,0
+TN,Tennessee,Dickson,2,73,0,1
+TN,Tennessee,Carroll,1,28,1,2
+WV,West Virginia,Preston,1,67,2,2
+WV,West Virginia,Hancock,1,85,1,0
+WV,West Virginia,Morgan,0,46,2,2
+WV,West Virginia,Doddridge,1,115,1,0
+WV,West Virginia,Cabell,0,58,2,1
+MN,Minnesota,Carver,0,23,2,2
+ND,North Dakota,Bowman,2,16,0,1
+ND,North Dakota,Billings,1,17,2,2
+ND,North Dakota,Sargent,0,75,2,2
+ND,North Dakota,Griggs,1,44,1,0
+ND,North Dakota,Renville,0,23,2,2
+ND,North Dakota,Steele,2,9,0,1
+SD,South Dakota,Davison,1,20,2,2
+SD,South Dakota,Douglas,0,41,2,1
+SD,South Dakota,Potter,0,27,2,2
+SD,South Dakota,Edmunds,1,44,1,0
+SD,South Dakota,Codington,0,120,2,2
+SD,South Dakota,Grant,1,85,1,0
+SD,South Dakota,Sanborn,1,54,1,0
+SD,South Dakota,Turner,1,71,1,0
+SD,South Dakota,Clark,1,85,1,0
+SD,South Dakota,Hamlin,1,20,2,2
+SD,South Dakota,Yankton,2,76,0,1
+SD,South Dakota,Jerauld,1,39,1,0
+SD,South Dakota,Brown,1,71,1,0
+SD,South Dakota,Jones,0,88,0,1
+SD,South Dakota,Miner,0,82,2,2
+AK,Alaska,Kenai Peninsula,1,39,1,0
+CA,California,Santa Clara,0,88,2,2
+CO,Colorado,Routt,1,83,2,2
+CO,Colorado,San Miguel,1,64,1,0
+CO,Colorado,Grand,2,112,0,1
+CO,Colorado,Park,2,72,0,2
+CO,Colorado,Jefferson,2,78,0,1
+HI,Hawaii,Kauai,2,51,0,1
+IA,Iowa,Page,2,16,0,1
+IA,Iowa,Harrison,1,59,2,2
+IA,Iowa,Keokuk,2,21,0,1
+IA,Iowa,Allamakee,1,13,1,0
+IA,Iowa,Boone,0,120,2,2
+IA,Iowa,Shelby,1,13,1,0
+IA,Iowa,Carroll,1,49,1,0
+IA,Iowa,Louisa,2,14,2,2
+IA,Iowa,Fremont,2,113,0,1
+IA,Iowa,Poweshiek,1,85,1,0
+IA,Iowa,Clayton,0,26,0,1
+IA,Iowa,Guthrie,2,51,0,2
+IA,Iowa,Adams,0,56,2,0
+IA,Iowa,Winnebago,2,106,0,1
+IA,Iowa,Jefferson,1,3,1,0
+IA,Iowa,Jackson,0,81,2,2
+IA,Iowa,Linn,1,3,1,0
+IA,Iowa,Jasper,0,111,1,2
+IA,Iowa,Hamilton,1,64,1,0
+IA,Iowa,Emmet,1,62,1,2
+IA,Iowa,Wright,0,18,2,2
+IA,Iowa,Dubuque,0,84,2,2
+IA,Iowa,Cherokee,0,75,2,2
+KS,Kansas,Dickinson,1,56,1,0
+KS,Kansas,Pawnee,2,119,0,1
+KS,Kansas,Jackson,0,87,2,2
+KS,Kansas,Phillips,1,64,1,0
+KS,Kansas,Stevens,2,16,0,1
+KS,Kansas,Kearny,2,32,0,1
+KS,Kansas,Scott,0,19,1,0
+KS,Kansas,Hodgeman,1,39,1,0
+KS,Kansas,Graham,0,95,2,2
+KS,Kansas,Morris,2,9,0,1
+KS,Kansas,Sumner,0,120,2,2
+KS,Kansas,Meade,0,84,2,2
+KS,Kansas,Marion,2,21,0,1
+KS,Kansas,Edwards,2,31,2,2
+KS,Kansas,Butler,2,31,0,2
+KS,Kansas,Osage,0,102,2,2
+KS,Kansas,Chase,2,76,0,1
+KS,Kansas,Greeley,2,35,0,1
+MN,Minnesota,Faribault,2,36,0,1
+MN,Minnesota,Pipestone,0,27,2,2
+MN,Minnesota,Aitkin,2,110,0,1
+MN,Minnesota,Todd,1,85,1,0
+MN,Minnesota,Norman,1,68,1,0
+MN,Minnesota,Winona,1,22,1,0
+MN,Minnesota,Benton,1,95,2,2
+MN,Minnesota,Mower,2,51,0,1
+MN,Minnesota,Koochiching,1,53,2,2
+MN,Minnesota,Cottonwood,1,99,2,2
+MN,Minnesota,Becker,2,16,0,1
+MN,Minnesota,Ramsey,2,55,0,1
+MN,Minnesota,Chippewa,0,23,2,2
+MN,Minnesota,Freeborn,1,62,1,0
+MN,Minnesota,Lake,0,26,0,1
+MN,Minnesota,Hubbard,0,24,2,2
+MN,Minnesota,Morrison,1,93,1,0
+MN,Minnesota,Nobles,1,40,1,0
+MT,Montana,Daniels,1,54,1,0
+MT,Montana,Fallon,2,32,0,1
+MT,Montana,Gallatin,0,87,2,2
+ND,North Dakota,Eddy,1,95,2,2
+NE,Nebraska,Jefferson,1,6,2,2
+NE,Nebraska,Stanton,0,2,2,2
+NE,Nebraska,Keith,0,74,2,2
+NE,Nebraska,Garfield,1,83,2,0
+NE,Nebraska,Dawes,2,106,0,1
+NE,Nebraska,Morrill,0,2,2,2
+NE,Nebraska,Knox,1,28,1,0
+NE,Nebraska,Greeley,0,23,2,2
+NE,Nebraska,Kimball,1,44,1,0
+NE,Nebraska,Douglas,0,73,2,1
+NE,Nebraska,Pawnee,2,87,2,2
+NE,Nebraska,Burt,0,46,1,2
+NE,Nebraska,Dundy,2,8,0,1
+NE,Nebraska,Lincoln,1,15,1,0
+NE,Nebraska,Wheeler,0,61,1,0
+NE,Nebraska,Dodge,0,12,0,1
+NY,New York,Nassau,1,24,2,2
+SD,South Dakota,Tripp,0,27,2,2
+TX,Texas,Mitchell,1,111,2,2
+TX,Texas,Wilson,0,11,1,2
+TX,Texas,Guadalupe,0,30,2,2
+TX,Texas,Sutton,1,59,2,2
+TX,Texas,Crockett,1,10,1,0
+TX,Texas,Galveston,2,35,0,1
+TX,Texas,Lipscomb,2,21,0,1
+TX,Texas,Mason,1,40,2,2
+TX,Texas,Blanco,0,100,2,2
+TX,Texas,Austin,2,110,0,1
+TX,Texas,Bandera,0,18,2,2
+TX,Texas,Montgomery,1,114,2,2
+TX,Texas,Comal,2,31,2,2
+TX,Texas,Crane,0,6,2,2
+TX,Texas,Andrews,1,114,2,2
+TX,Texas,Midland,1,17,2,2
+TX,Texas,Wise,2,72,0,2
+TX,Texas,Ellis,0,40,2,2
+TX,Texas,Kendall,0,5,2,2
+TX,Texas,Parker,1,15,1,0
+TX,Texas,Garza,1,85,2,0
+TX,Texas,Chambers,0,80,2,2
+TX,Texas,Archer,0,120,2,2
+UT,Utah,Morgan,0,100,2,1
+VA,Virginia,Alexandria City,0,18,2,2
+VA,Virginia,Goochland,2,119,0,1
+VA,Virginia,King George,1,15,1,0
+VA,Virginia,New Kent,1,29,1,0
+VA,Virginia,Poquoson City,2,36,2,1
+VA,Virginia,Chesterfield,1,15,1,0
+VA,Virginia,York,0,97,0,1
+VA,Virginia,Hanover,1,118,2,0
+WI,Wisconsin,Waukesha,0,69,2,2
+WI,Wisconsin,Ozaukee,2,89,0,1
+WY,Wyoming,Sublette,0,30,2,2
+AZ,Arizona,Maricopa,1,20,1,2
+CA,California,Napa,1,6,2,2
+CA,California,El Dorado,1,111,1,2
+CO,Colorado,Denver,2,32,0,1
+CO,Colorado,Huerfano,1,74,2,2
+CO,Colorado,Phillips,2,98,0,1
+CO,Colorado,San Juan,0,41,0,1
+CT,Connecticut,Hartford,0,63,2,2
+CT,Connecticut,Middlesex,1,115,1,0
+GA,Georgia,Columbia,2,103,0,1
+GA,Georgia,Cherokee,1,3,1,0
+GA,Georgia,Cobb,0,37,2,2
+GA,Georgia,Oconee,2,103,0,1
+IA,Iowa,Decatur,1,68,1,0
+IA,Iowa,Wapello,0,120,2,2
+IA,Iowa,Davis,2,103,0,1
+ID,Idaho,Bonneville,0,73,0,1
+ID,Idaho,Clearwater,0,120,2,2
+ID,Idaho,Jefferson,1,43,1,0
+IL,Illinois,Schuyler,0,20,2,2
+IL,Illinois,Clark,0,80,1,2
+IL,Illinois,Madison,2,14,2,1
+IL,Illinois,Will,0,101,2,2
+IL,Illinois,Crawford,0,75,2,2
+IL,Illinois,LaSalle,2,77,0,1
+IL,Illinois,Marshall,2,89,2,1
+IL,Illinois,Livingston,1,64,1,0
+IL,Illinois,Calhoun,1,15,1,0
+IL,Illinois,Carroll,1,86,1,0
+IL,Illinois,Lee,2,18,2,2
+IL,Illinois,De Witt,2,23,2,2
+IL,Illinois,Douglas,1,6,2,2
+IL,Illinois,Bureau,0,18,2,2
+IL,Illinois,Henry,2,52,0,1
+IL,Illinois,Cook,1,68,1,0
+IL,Illinois,Whiteside,2,16,0,1
+IL,Illinois,Boone,1,15,1,0
+IL,Illinois,Ford,0,24,2,2
+IN,Indiana,Hendricks,0,58,2,2
+IN,Indiana,Boone,2,112,0,1
+KS,Kansas,Lyon,0,90,2,2
+KY,Kentucky,Oldham,1,99,2,2
+MA,Massachusetts,Middlesex,2,97,0,1
+MD,Maryland,Queen Anne's,2,23,2,2
+MD,Maryland,Talbot,0,23,0,1
+MI,Michigan,Washtenaw,1,7,1,0
+MI,Michigan,Lapeer,1,39,1,0
+MI,Michigan,Midland,2,35,0,1
+MI,Michigan,Kent,0,67,2,2
+MI,Michigan,Ottawa,0,70,2,2
+MO,Missouri,Clay,1,22,1,0
+MO,Missouri,DeKalb,0,40,2,2
+MO,Missouri,Platte,2,104,0,1
+MO,Missouri,Osage,2,102,0,1
+MS,Mississippi,DeSoto,0,117,2,2
+MS,Mississippi,Madison,2,51,0,1
+MT,Montana,Treasure,2,103,0,1
+MT,Montana,Prairie,0,117,2,2
+MT,Montana,Ravalli,0,23,2,1
+MT,Montana,Deer Lodge,2,98,0,1
+MT,Montana,Wheatland,2,79,0,1
+MT,Montana,Teton,0,41,0,1
+NC,North Carolina,Mecklenburg,0,23,2,1
+NH,New Hampshire,Belknap,2,16,0,1
+NH,New Hampshire,Rockingham,2,98,0,1
+NH,New Hampshire,Carroll,1,1,1,0
+NJ,New Jersey,Cape May,2,73,0,1
+NJ,New Jersey,Burlington,0,14,2,1
+NJ,New Jersey,Warren,1,115,1,0
+NM,New Mexico,Union,0,2,2,2
+NM,New Mexico,Lea,2,103,0,1
+NM,New Mexico,Eddy,1,20,2,2
+NV,Nevada,Storey,0,2,2,2
+NY,New York,Albany,2,113,0,1
+NY,New York,Ulster,1,109,2,1
+NY,New York,Essex,0,114,2,2
+NY,New York,Rensselaer,1,86,1,0
+NY,New York,Tioga,2,23,2,2
+NY,New York,Wyoming,1,10,1,0
+PA,Pennsylvania,Chester,2,34,0,1
+SC,South Carolina,Beaufort,0,58,0,1
+TX,Texas,Hale,1,99,2,2
+TX,Texas,Crosby,2,106,0,1
+TX,Texas,Angelina,0,84,2,2
+TX,Texas,Caldwell,2,35,0,1
+TX,Texas,Kleberg,1,114,2,2
+TX,Texas,Runnels,1,11,1,2
+TX,Texas,Coleman,0,27,2,2
+TX,Texas,Camp,1,66,1,0
+TX,Texas,Potter,2,69,0,1
+TX,Texas,Navarro,0,61,1,2
+TX,Texas,Deaf Smith,2,32,0,1
+TX,Texas,Trinity,1,92,1,0
+TX,Texas,Frio,2,110,0,1
+TX,Texas,Motley,1,44,1,0
+TX,Texas,Cottle,1,42,1,0
+TX,Texas,Houston,1,85,1,0
+TX,Texas,Erath,2,21,0,1
+TX,Texas,Hill,0,75,2,2
+TX,Texas,Eastland,0,37,2,2
+TX,Texas,Jim Hogg,0,18,2,2
+TX,Texas,Swisher,0,33,2,1
+TX,Texas,Castro,1,43,1,0
+TX,Texas,Collingsworth,1,111,2,2
+TX,Texas,Gonzales,0,24,2,2
+TX,Texas,Bowie,2,21,0,1
+TX,Texas,Henderson,2,52,2,2
+TX,Texas,Dimmit,0,34,2,2
+TX,Texas,Floyd,2,4,2,2
+TX,Texas,Red River,2,12,0,1
+TX,Texas,Sabine,2,104,0,1
+TX,Texas,Titus,1,44,1,0
+TX,Texas,Jim Wells,2,36,2,1
+TX,Texas,Comanche,2,72,0,1
+TX,Texas,Waller,2,88,0,1
+TX,Texas,Marion,0,84,2,2
+UT,Utah,Millard,0,11,1,2
+UT,Utah,Sanpete,0,41,0,1
+UT,Utah,Carbon,0,96,2,0
+UT,Utah,Sevier,0,24,2,2
+UT,Utah,Cache,0,2,2,1
+UT,Utah,Duchesne,1,111,1,2
+UT,Utah,Wayne,1,40,1,2
+UT,Utah,Rich,2,76,0,1
+UT,Utah,Juab,0,81,2,2
+UT,Utah,Emery,1,25,1,0
+UT,Utah,Washington,2,12,0,1
+UT,Utah,Uintah,2,73,0,1
+VA,Virginia,King and Queen,2,35,0,1
+VA,Virginia,Madison,2,14,0,1
+VA,Virginia,Franklin,2,31,2,2
+VA,Virginia,Lancaster,0,81,2,2
+VA,Virginia,Bath,0,4,2,2
+VA,Virginia,Norfolk City,2,26,0,1
+VA,Virginia,Newport News City,1,1,1,0
+VA,Virginia,Surry,1,85,1,0
+VA,Virginia,Dinwiddie,1,85,1,0
+VA,Virginia,Highland,0,75,2,2
+VA,Virginia,Alleghany,1,7,1,0
+VA,Virginia,Hampton City,0,6,2,2
+VT,Vermont,Rutland,0,18,2,2
+VT,Vermont,Grand Isle,2,112,0,1
+VT,Vermont,Lamoille,2,113,0,1
+WA,Washington,San Juan,1,44,1,0
+WA,Washington,Kitsap,2,9,0,1
+WI,Wisconsin,Juneau,0,70,2,2
+WI,Wisconsin,Marinette,0,33,2,2
+WI,Wisconsin,Eau Claire,2,2,2,2
+WI,Wisconsin,Marquette,0,117,2,2
+WI,Wisconsin,Dodge,0,1,1,0
+WI,Wisconsin,Barron,2,36,2,1
+WI,Wisconsin,Buffalo,1,95,2,2
+WI,Wisconsin,Waushara,0,23,2,2
+WI,Wisconsin,Grant,2,51,0,1
+WI,Wisconsin,Waupaca,0,120,2,2
+WI,Wisconsin,Pepin,0,102,0,1
+WI,Wisconsin,Crawford,0,0,2,2
+WI,Wisconsin,Brown,1,28,1,0
+WI,Wisconsin,Chippewa,0,73,0,1
+WI,Wisconsin,Lincoln,1,54,1,0
+WY,Wyoming,Goshen,0,70,2,2
+AR,Arkansas,Lonoke,1,29,1,0
+AR,Arkansas,Benton,2,9,0,1
+AZ,Arizona,Yuma,0,67,2,2
+AZ,Arizona,Cochise,1,65,1,0
+CA,California,Plumas,0,37,2,2
+FL,Florida,Miami-Dade,0,79,0,1
+FL,Florida,Santa Rosa,1,111,2,2
+FL,Florida,Alachua,0,4,2,2
+FL,Florida,Franklin,1,56,1,0
+FL,Florida,Manatee,2,98,0,1
+FL,Florida,Indian River,0,81,2,2
+FL,Florida,Bradford,1,1,1,0
+FL,Florida,Liberty,2,51,0,1
+FL,Florida,Pasco,1,56,2,0
+FL,Florida,Baker,2,76,0,1
+FL,Florida,Leon,2,89,0,1
+GA,Georgia,Crawford,1,42,1,0
+GA,Georgia,Glascock,0,50,1,0
+GA,Georgia,White,0,100,0,1
+GA,Georgia,Newton,2,9,0,1
+GA,Georgia,Haralson,2,110,0,1
+GA,Georgia,DeKalb,2,9,2,1
+GA,Georgia,Douglas,0,83,2,2
+GA,Georgia,Liberty,1,22,1,0
+GA,Georgia,Putnam,1,45,1,0
+GA,Georgia,Pierce,0,58,2,1
+GA,Georgia,Madison,0,96,2,2
+GA,Georgia,Habersham,2,26,0,1
+GA,Georgia,Gilmer,1,108,1,0
+GA,Georgia,Walker,0,87,2,2
+ID,Idaho,Gooding,2,31,2,2
+ID,Idaho,Lincoln,2,8,0,1
+ID,Idaho,Canyon,1,65,1,0
+ID,Idaho,Washington,2,31,2,2
+IL,Illinois,Saline,1,53,2,2
+IL,Illinois,McDonough,0,27,2,2
+IL,Illinois,Hardin,2,58,2,2
+IN,Indiana,Daviess,0,24,2,2
+IN,Indiana,DeKalb,2,91,2,2
+IN,Indiana,Wabash,2,75,2,2
+IN,Indiana,Marshall,0,27,2,2
+IN,Indiana,Morgan,0,23,2,1
+IN,Indiana,Montgomery,0,53,2,2
+IN,Indiana,Shelby,1,7,1,0
+IN,Indiana,Pike,2,14,2,1
+IN,Indiana,Harrison,2,89,0,1
+IN,Indiana,Greene,0,88,2,2
+IN,Indiana,LaPorte,1,17,1,0
+IN,Indiana,Elkhart,2,9,0,1
+IN,Indiana,Decatur,0,50,1,0
+IN,Indiana,Clay,0,12,0,1
+IN,Indiana,Clinton,1,28,1,0
+IN,Indiana,Jennings,1,45,1,0
+IN,Indiana,Franklin,2,89,0,1
+IN,Indiana,Union,0,53,2,2
+IN,Indiana,Brown,2,32,0,1
+KY,Kentucky,Hancock,1,28,1,0
+KY,Kentucky,Fayette,2,98,0,1
+KY,Kentucky,Franklin,0,27,0,1
+KY,Kentucky,Marshall,1,44,1,0
+KY,Kentucky,Trimble,2,38,0,1
+KY,Kentucky,Pendleton,1,65,1,0
+LA,Louisiana,Livingston,1,40,2,2
+LA,Louisiana,Vermilion,0,30,2,2
+LA,Louisiana,St. John the Baptist,0,100,2,1
+LA,Louisiana,Grant,1,29,1,0
+LA,Louisiana,St. Bernard,2,73,0,1
+LA,Louisiana,St. James,1,43,1,0
+LA,Louisiana,Allen,1,29,1,0
+LA,Louisiana,Lafourche,1,7,1,0
+LA,Louisiana,West Baton Rouge,0,36,0,1
+LA,Louisiana,Caddo,0,102,2,1
+LA,Louisiana,West Feliciana,1,111,1,0
+MA,Massachusetts,Dukes,2,112,0,1
+MA,Massachusetts,Hampshire,1,44,1,0
+MD,Maryland,Baltimore City,1,13,1,0
+MD,Maryland,Allegany,2,106,0,1
+MD,Maryland,Wicomico,0,100,0,1
+ME,Maine,Androscoggin,2,110,0,1
+ME,Maine,Franklin,0,33,2,2
+MI,Michigan,Iosco,2,26,0,1
+MI,Michigan,Gladwin,2,21,0,1
+MI,Michigan,Saginaw,0,48,2,2
+MI,Michigan,Wexford,0,30,2,2
+MI,Michigan,Kalkaska,1,45,1,0
+MI,Michigan,Luce,2,31,2,2
+MI,Michigan,Genesee,1,1,1,0
+MI,Michigan,Montcalm,2,87,2,2
+MI,Michigan,Newaygo,0,5,2,2
+MI,Michigan,Oceana,2,106,0,1
+MI,Michigan,Gogebic,2,9,0,1
+MI,Michigan,Ogemaw,0,81,2,2
+MI,Michigan,Arenac,2,72,0,1
+MI,Michigan,Cheboygan,2,104,0,1
+MI,Michigan,Houghton,0,30,2,2
+MO,Missouri,Shelby,1,25,2,0
+MO,Missouri,Linn,2,103,0,1
+MO,Missouri,Stone,1,85,1,0
+MO,Missouri,Marion,0,31,2,2
+MO,Missouri,Bollinger,0,58,2,2
+MO,Missouri,Scotland,0,31,2,2
+MO,Missouri,Gentry,2,113,0,1
+MO,Missouri,Daviess,2,113,0,1
+MO,Missouri,Webster,0,96,2,0
+MO,Missouri,Howard,1,0,1,2
+MO,Missouri,Phelps,0,27,2,2
+MO,Missouri,Sullivan,1,64,1,0
+MO,Missouri,Newton,0,89,0,1
+MO,Missouri,St. Francois,1,59,2,2
+MO,Missouri,Macon,2,110,0,1
+MO,Missouri,Audrain,2,103,0,1
+MS,Mississippi,Lawrence,2,4,2,2
+MS,Mississippi,Franklin,0,53,2,2
+MS,Mississippi,Lee,0,118,2,2
+MS,Mississippi,Itawamba,2,113,0,1
+MS,Mississippi,Pearl River,2,110,0,1
+MS,Mississippi,Lafayette,1,6,2,2
+MS,Mississippi,Monroe,0,87,2,2
+MS,Mississippi,Harrison,2,79,0,1
+MS,Mississippi,Tishomingo,2,73,2,1
+MS,Mississippi,Webster,0,13,1,0
+NC,North Carolina,Cleveland,2,35,0,1
+NC,North Carolina,Jones,2,106,0,1
+NC,North Carolina,Greene,0,41,0,1
+NC,North Carolina,Wayne,0,81,2,2
+NC,North Carolina,Tyrrell,1,68,1,0
+NC,North Carolina,Alleghany,2,32,0,1
+NC,North Carolina,Burke,2,104,0,1
+NC,North Carolina,Surry,0,100,2,2
+NC,North Carolina,Rowan,0,6,2,2
+NC,North Carolina,Yadkin,0,84,2,2
+NC,North Carolina,Perquimans,0,52,0,1
+NC,North Carolina,Cherokee,1,114,2,2
+NC,North Carolina,Gaston,0,27,2,2
+NC,North Carolina,Wilkes,0,28,1,0
+NC,North Carolina,Rockingham,0,101,2,2
+NC,North Carolina,Ashe,2,78,0,1
+NC,North Carolina,McDowell,2,51,0,1
+NC,North Carolina,Caswell,0,75,2,2
+NC,North Carolina,Franklin,2,58,2,2
+NE,Nebraska,Thurston,0,94,2,2
+NJ,New Jersey,Cumberland,0,5,2,2
+NM,New Mexico,Otero,2,77,0,1
+NM,New Mexico,Taos,0,18,2,2
+NV,Nevada,Carson City,2,97,0,1
+NY,New York,Kings,0,0,2,2
+OH,Ohio,Van Wert,0,111,1,2
+OH,Ohio,Huron,0,115,1,0
+OH,Ohio,Lorain,2,113,0,1
+OH,Ohio,Wood,2,103,0,1
+OH,Ohio,Knox,0,75,2,1
+OH,Ohio,Paulding,1,22,1,0
+OH,Ohio,Allen,0,89,2,1
+OH,Ohio,Seneca,1,65,1,0
+OH,Ohio,Auglaize,2,51,0,1
+OH,Ohio,Licking,2,103,0,1
+OH,Ohio,Richland,1,99,2,2
+OH,Ohio,Miami,2,77,0,1
+OH,Ohio,Henry,0,75,2,2
+OH,Ohio,Tuscarawas,1,1,1,0
+OH,Ohio,Portage,0,88,2,2
+OH,Ohio,Shelby,0,40,2,2
+OH,Ohio,Clermont,2,105,2,2
+OH,Ohio,Wayne,2,33,2,1
+OK,Oklahoma,Rogers,0,19,2,0
+OK,Oklahoma,Alfalfa,2,9,0,1
+OK,Oklahoma,Greer,1,111,2,2
+OK,Oklahoma,Woods,1,44,1,0
+OK,Oklahoma,Texas,1,42,1,0
+OK,Oklahoma,Beaver,1,64,1,0
+OK,Oklahoma,Woodward,2,26,0,1
+OK,Oklahoma,McClain,2,32,0,1
+OK,Oklahoma,Major,2,21,0,1
+OR,Oregon,Lane,2,58,2,2
+OR,Oregon,Wheeler,1,40,2,2
+OR,Oregon,Wallowa,1,49,1,2
+OR,Oregon,Polk,2,72,2,1
+OR,Oregon,Curry,2,98,0,1
+PA,Pennsylvania,Snyder,1,62,1,0
+PA,Pennsylvania,Westmoreland,1,49,1,0
+PA,Pennsylvania,York,1,65,1,0
+PA,Pennsylvania,Northampton,1,59,2,1
+PA,Pennsylvania,Centre,0,78,0,1
+PA,Pennsylvania,Bedford,2,110,0,1
+PA,Pennsylvania,Monroe,2,109,0,1
+PA,Pennsylvania,Lycoming,1,108,1,0
+PA,Pennsylvania,Berks,1,20,2,2
+PA,Pennsylvania,Forest,0,41,0,1
+PA,Pennsylvania,Lehigh,0,107,2,2
+PA,Pennsylvania,Greene,1,68,1,0
+PA,Pennsylvania,Beaver,2,4,2,2
+PA,Pennsylvania,Huntingdon,0,18,2,2
+PA,Pennsylvania,Susquehanna,2,98,0,1
+PA,Pennsylvania,Warren,1,70,2,2
+PA,Pennsylvania,Armstrong,2,78,0,1
+SC,South Carolina,Charleston,1,66,1,0
+SC,South Carolina,Berkeley,2,69,0,1
+SC,South Carolina,Lexington,2,89,0,1
+SC,South Carolina,Richland,0,4,2,2
+SC,South Carolina,Anderson,2,9,0,1
+SC,South Carolina,Lancaster,0,33,2,1
+SC,South Carolina,Kershaw,0,34,0,1
+SC,South Carolina,Florence,1,111,2,2
+SD,South Dakota,Dewey,0,70,2,2
+TX,Texas,Brooks,2,98,0,1
+TX,Texas,Maverick,1,39,1,0
+TX,Texas,Zavala,2,88,2,2
+UT,Utah,Piute,2,106,0,1
+VA,Virginia,Martinsville City,0,90,2,2
+VA,Virginia,Harrisonburg City,0,101,2,2
+VT,Vermont,Essex,1,93,1,0
+WA,Washington,Whitman,1,75,2,2
+WA,Washington,Pacific,2,36,2,1
+WA,Washington,Cowlitz,2,16,0,1
+WA,Washington,Grays Harbor,0,67,2,2
+WA,Washington,Yakima,0,78,0,1
+WI,Wisconsin,Ashland,1,22,1,0
+AK,Alaska,Bethel,2,35,0,1
+AK,Alaska,Nome,0,2,2,2
+AL,Alabama,St. Clair,1,96,2,2
+AL,Alabama,Autauga,0,30,2,2
+AL,Alabama,Madison,0,48,2,2
+AL,Alabama,Elmore,0,27,0,1
+AR,Arkansas,Prairie,1,15,1,0
+AR,Arkansas,Craighead,1,93,1,0
+AR,Arkansas,Montgomery,1,74,2,0
+AR,Arkansas,Garland,0,70,2,2
+AR,Arkansas,Miller,0,100,2,2
+AR,Arkansas,Independence,0,95,0,1
+AR,Arkansas,Izard,0,53,2,2
+AR,Arkansas,Boone,0,34,2,1
+AR,Arkansas,Union,1,71,1,0
+AR,Arkansas,Crawford,2,57,2,2
+AR,Arkansas,Sebastian,2,113,0,1
+AR,Arkansas,Scott,2,55,0,1
+AR,Arkansas,Dallas,1,56,1,0
+FL,Florida,Holmes,2,113,0,1
+FL,Florida,Calhoun,0,2,2,2
+FL,Florida,Suwannee,1,111,1,0
+FL,Florida,Putnam,1,44,1,0
+FL,Florida,Levy,0,67,2,2
+GA,Georgia,Macon,2,89,2,1
+GA,Georgia,Laurens,0,18,2,2
+GA,Georgia,Bulloch,0,102,2,1
+GA,Georgia,Telfair,1,29,1,0
+GA,Georgia,Wilkes,0,120,2,2
+GA,Georgia,Warren,0,117,2,2
+GA,Georgia,Toombs,2,104,0,1
+GA,Georgia,Baldwin,1,99,1,2
+GA,Georgia,Talbot,0,73,0,1
+GA,Georgia,Spalding,0,81,2,2
+GA,Georgia,Taylor,0,97,0,1
+IN,Indiana,Delaware,0,6,2,2
+IN,Indiana,Fayette,0,36,2,1
+KY,Kentucky,Taylor,0,81,2,2
+KY,Kentucky,Todd,0,37,2,2
+KY,Kentucky,Adair,0,67,2,2
+KY,Kentucky,Barren,1,54,1,0
+KY,Kentucky,Madison,1,22,1,0
+KY,Kentucky,Rowan,1,7,1,0
+KY,Kentucky,Carter,2,35,0,1
+KY,Kentucky,Fleming,2,32,0,1
+KY,Kentucky,Muhlenberg,1,45,1,0
+KY,Kentucky,Christian,0,27,2,2
+LA,Louisiana,Richland,0,30,2,2
+LA,Louisiana,Jackson,1,85,1,0
+LA,Louisiana,De Soto,2,110,0,1
+LA,Louisiana,Winn,1,65,1,0
+LA,Louisiana,Tangipahoa,1,81,2,2
+LA,Louisiana,Webster,2,21,0,1
+LA,Louisiana,Red River,1,20,2,2
+LA,Louisiana,Franklin,1,20,2,2
+LA,Louisiana,Lincoln,0,23,2,2
+LA,Louisiana,Rapides,1,1,1,0
+MI,Michigan,Lake,1,83,2,0
+MO,Missouri,Cedar,1,44,1,0
+MO,Missouri,Oregon,1,111,1,2
+MO,Missouri,McDonald,2,38,0,1
+MO,Missouri,Ripley,1,1,1,0
+MS,Mississippi,Issaquena,1,17,2,0
+MS,Mississippi,Neshoba,0,102,2,1
+MS,Mississippi,Leake,2,9,2,1
+MS,Mississippi,Kemper,0,27,2,1
+MS,Mississippi,Adams,0,63,2,2
+MS,Mississippi,Marion,1,61,1,0
+MT,Montana,Big Horn,0,2,2,2
+NC,North Carolina,Washington,1,7,2,0
+NC,North Carolina,Duplin,0,81,2,2
+NC,North Carolina,Swain,0,14,2,1
+NY,New York,Bronx,1,15,1,0
+OH,Ohio,Highland,2,105,2,2
+OH,Ohio,Mahoning,1,25,1,0
+OH,Ohio,Montgomery,0,26,2,1
+OH,Ohio,Guernsey,2,89,0,1
+OH,Ohio,Hardin,2,97,0,1
+OK,Oklahoma,Comanche,2,97,0,1
+OK,Oklahoma,Murray,0,73,0,1
+OK,Oklahoma,Garvin,2,89,0,1
+OK,Oklahoma,Pawnee,1,15,1,0
+OK,Oklahoma,Cimarron,0,105,2,2
+OK,Oklahoma,Grady,2,9,0,1
+OK,Oklahoma,Cotton,1,39,1,0
+OK,Oklahoma,Blaine,2,14,0,1
+OK,Oklahoma,Creek,1,65,1,0
+OR,Oregon,Klamath,2,89,0,1
+OR,Oregon,Jefferson,2,89,0,1
+PA,Pennsylvania,Jefferson,2,35,0,1
+SC,South Carolina,Chesterfield,2,98,0,1
+SC,South Carolina,Horry,1,20,2,2
+SC,South Carolina,Lee,0,84,2,2
+SC,South Carolina,Bamberg,0,4,2,2
+SC,South Carolina,Clarendon,2,51,0,1
+SC,South Carolina,Jasper,0,105,2,2
+SC,South Carolina,Fairfield,0,30,2,2
+TN,Tennessee,Fayette,2,32,0,1
+TN,Tennessee,Rutherford,0,14,2,1
+TN,Tennessee,Sumner,1,39,1,0
+WA,Washington,Ferry,2,32,0,1
+WV,West Virginia,Putnam,0,75,2,2
+WV,West Virginia,Jefferson,0,87,2,2
+AL,Alabama,Geneva,2,97,0,1
+AL,Alabama,Choctaw,0,100,0,1
+AL,Alabama,Marshall,1,42,1,0
+AL,Alabama,Clay,0,75,2,2
+AL,Alabama,Colbert,1,85,1,0
+AL,Alabama,Covington,0,60,2,1
+AL,Alabama,Bullock,2,89,0,1
+AL,Alabama,Franklin,0,101,2,2
+AL,Alabama,Lamar,0,81,2,2
+AR,Arkansas,Chicot,2,97,0,1
+GA,Georgia,Taliaferro,2,14,2,1
+KY,Kentucky,Harlan,0,4,2,2
+KY,Kentucky,Owsley,0,95,2,1
+KY,Kentucky,Breathitt,0,82,2,2
+KY,Kentucky,Floyd,1,70,2,2
+OK,Oklahoma,Seminole,2,113,0,1
+OK,Oklahoma,Coal,1,111,1,0
+OK,Oklahoma,Muskogee,1,15,1,0
+OK,Oklahoma,Choctaw,0,26,0,1
+PA,Pennsylvania,Philadelphia,0,37,2,2
+TN,Tennessee,Warren,0,18,2,2
+TN,Tennessee,Macon,1,75,2,2
+TN,Tennessee,Johnson,0,23,2,2
+TN,Tennessee,Perry,0,18,2,2
+TN,Tennessee,Houston,1,17,2,2
+TN,Tennessee,Grainger,0,40,2,2
+TN,Tennessee,Weakley,2,14,0,1
+TN,Tennessee,Van Buren,1,29,1,0
+TN,Tennessee,Crockett,1,45,1,0
+TN,Tennessee,Bradley,1,75,2,2
+TN,Tennessee,Bedford,0,37,2,2
+TN,Tennessee,Decatur,0,81,2,2
+TN,Tennessee,White,2,89,0,1
+TN,Tennessee,Obion,2,105,0,2
+TN,Tennessee,Polk,0,74,2,2
+TN,Tennessee,Henry,0,73,0,1
+WV,West Virginia,Gilmer,2,113,0,1
+WV,West Virginia,Mason,1,93,1,0
+WV,West Virginia,Barbour,1,62,1,0
+WV,West Virginia,Summers,2,110,0,2
+WV,West Virginia,Boone,0,53,2,2
+AK,Alaska,Ketchikan Gateway,0,120,2,2
+AK,Alaska,Sitka,1,40,1,2
+AK,Alaska,Juneau,1,118,2,2
+AK,Alaska,Anchorage,2,81,2,2
+AK,Alaska,Valdez-Cordova,1,59,2,2
+CO,Colorado,Pitkin,2,55,0,1
+CO,Colorado,Eagle,0,75,2,1
+CO,Colorado,Larimer,0,102,2,1
+CO,Colorado,Broomfield,1,1,1,0
+CO,Colorado,Summit,0,81,2,2
+CO,Colorado,Clear Creek,1,45,1,0
+HI,Hawaii,Kalawao,0,81,2,2
+HI,Hawaii,Maui,1,56,1,0
+IA,Iowa,Buchanan,1,53,2,2
+IA,Iowa,Audubon,0,41,0,1
+IA,Iowa,Clay,2,72,2,2
+IA,Iowa,Mitchell,1,17,2,2
+IA,Iowa,Mills,0,83,2,2
+IA,Iowa,Marion,1,39,1,0
+IA,Iowa,O'Brien,1,43,1,0
+IA,Iowa,Hancock,1,62,1,0
+IA,Iowa,Delaware,1,114,2,2
+IA,Iowa,Plymouth,1,118,2,2
+IA,Iowa,Osceola,0,100,2,1
+IA,Iowa,Butler,1,40,1,2
+IA,Iowa,Hardin,2,78,0,1
+IA,Iowa,Winneshiek,0,41,0,1
+IA,Iowa,Madison,1,31,2,2
+IA,Iowa,Sac,0,53,2,2
+IA,Iowa,Iowa,1,1,1,0
+IA,Iowa,Cedar,0,114,2,2
+IA,Iowa,Benton,0,40,2,2
+IA,Iowa,Adair,1,64,1,0
+IA,Iowa,Washington,2,119,0,1
+IA,Iowa,Polk,1,19,1,0
+KS,Kansas,Nemaha,0,101,2,2
+KS,Kansas,Comanche,2,91,2,2
+KS,Kansas,Pottawatomie,2,16,0,1
+KS,Kansas,Trego,2,34,0,1
+KS,Kansas,Lane,2,21,0,1
+KS,Kansas,Logan,2,69,0,1
+KS,Kansas,Norton,2,117,2,2
+KS,Kansas,Ottawa,1,65,1,0
+KS,Kansas,Pratt,0,34,0,1
+KS,Kansas,Gray,0,120,2,2
+KS,Kansas,Clay,2,14,0,1
+KS,Kansas,Wabaunsee,2,21,0,1
+KS,Kansas,Washington,0,81,2,2
+KS,Kansas,Cheyenne,0,95,2,2
+KS,Kansas,Wallace,2,119,0,1
+KS,Kansas,Miami,1,107,1,2
+KS,Kansas,Gove,0,114,2,2
+KS,Kansas,Ellsworth,0,57,2,2
+KS,Kansas,Leavenworth,1,42,1,0
+KS,Kansas,Mitchell,1,28,1,0
+KS,Kansas,Coffey,1,62,1,0
+MD,Maryland,Howard,2,73,0,1
+MN,Minnesota,Roseau,0,53,2,2
+MN,Minnesota,Wilkin,0,52,0,2
+MN,Minnesota,Swift,0,95,0,1
+MN,Minnesota,Hennepin,2,21,0,1
+MN,Minnesota,Traverse,1,2,2,2
+MN,Minnesota,Steele,1,19,1,0
+MN,Minnesota,Polk,2,26,0,1
+MN,Minnesota,Lyon,1,42,1,0
+MN,Minnesota,Pope,0,117,2,2
+MN,Minnesota,Stevens,2,16,0,1
+MN,Minnesota,Lake of the Woods,0,90,2,2
+MN,Minnesota,Martin,0,84,2,2
+MN,Minnesota,Lincoln,2,58,2,1
+MN,Minnesota,Kittson,0,84,2,2
+MN,Minnesota,Red Lake,0,2,2,2
+MN,Minnesota,Houston,2,9,0,1
+MN,Minnesota,Grant,2,16,0,1
+MN,Minnesota,Goodhue,0,14,2,1
+MN,Minnesota,Big Stone,1,93,1,0
+MN,Minnesota,Sibley,1,22,1,0
+MN,Minnesota,Jackson,1,62,1,0
+MN,Minnesota,Anoka,0,117,2,2
+MN,Minnesota,Renville,1,107,2,2
+MN,Minnesota,Clay,2,60,0,1
+MN,Minnesota,Redwood,2,35,0,1
+MN,Minnesota,Murray,2,106,0,1
+MN,Minnesota,Rock,2,9,0,1
+MN,Minnesota,Crow Wing,0,34,2,2
+MN,Minnesota,Kandiyohi,0,37,2,2
+MN,Minnesota,Pennington,2,69,0,1
+MN,Minnesota,Fillmore,0,50,1,0
+MN,Minnesota,Carlton,2,113,0,1
+ND,North Dakota,Mountrail,2,32,0,1
+ND,North Dakota,McKenzie,0,26,2,1
+NE,Nebraska,Nance,0,12,0,1
+NE,Nebraska,Banner,1,71,1,0
+NE,Nebraska,Loup,0,0,2,0
+NE,Nebraska,Keya Paha,2,35,0,1
+NE,Nebraska,Franklin,1,65,1,0
+NE,Nebraska,Nemaha,0,41,0,1
+NE,Nebraska,Dawson,1,47,1,0
+NE,Nebraska,Butler,0,46,2,2
+NE,Nebraska,Brown,1,43,1,0
+NE,Nebraska,Nuckolls,2,89,0,1
+NE,Nebraska,Adams,0,109,0,1
+NE,Nebraska,Saline,0,58,2,1
+NE,Nebraska,Harlan,0,0,2,2
+NE,Nebraska,Sioux,2,12,0,1
+NE,Nebraska,Valley,1,65,1,0
+NE,Nebraska,Boyd,0,14,2,1
+NE,Nebraska,Garden,0,24,2,2
+NE,Nebraska,Webster,0,27,2,1
+NE,Nebraska,Deuel,0,57,2,2
+NE,Nebraska,Furnas,0,97,0,1
+NE,Nebraska,Blaine,1,114,2,2
+NE,Nebraska,Wayne,0,2,0,1
+NE,Nebraska,Thayer,1,42,1,0
+NE,Nebraska,Hall,2,24,2,2
+NE,Nebraska,Rock,1,20,2,2
+NJ,New Jersey,Morris,0,23,2,2
+NM,New Mexico,Los Alamos,2,51,0,2
+SD,South Dakota,Clay,0,67,2,2
+SD,South Dakota,Gregory,0,74,2,2
+SD,South Dakota,Day,1,111,1,2
+TX,Texas,Armstrong,2,35,0,1
+TX,Texas,Irion,2,113,0,1
+TX,Texas,Travis,2,31,2,2
+TX,Texas,Carson,0,117,2,2
+TX,Texas,Denton,2,32,0,1
+TX,Texas,Brazoria,1,1,1,0
+TX,Texas,Randall,0,41,0,1
+VA,Virginia,Falls Church City,0,75,0,1
+VA,Virginia,Stafford,0,83,2,2
+VA,Virginia,Powhatan,1,10,1,0
+VA,Virginia,Arlington,2,9,0,1
+CA,California,Ventura,1,5,2,2
+CA,California,Orange,2,110,0,1
+CA,California,Alameda,2,73,0,1
+CO,Colorado,Montezuma,0,120,2,2
+CO,Colorado,Bent,2,58,0,1
+CO,Colorado,Las Animas,2,103,0,1
+CO,Colorado,Mesa,1,39,1,0
+CO,Colorado,Adams,1,92,1,0
+CO,Colorado,Kiowa,0,58,2,2
+CO,Colorado,Baca,1,44,1,0
+GA,Georgia,Harris,1,85,1,0
+GA,Georgia,Fayette,2,113,0,1
+HI,Hawaii,Hawaii,0,81,2,2
+ID,Idaho,Blaine,2,106,0,1
+ID,Idaho,Ada,2,79,0,1
+ID,Idaho,Kootenai,0,67,2,2
+ID,Idaho,Caribou,0,84,2,2
+ID,Idaho,Teton,1,86,2,0
+IL,Illinois,Ogle,2,76,0,1
+IL,Illinois,Tazewell,2,120,2,2
+IL,Illinois,Grundy,2,110,0,1
+IL,Illinois,Effingham,2,33,0,1
+IL,Illinois,Washington,1,43,1,0
+IL,Illinois,Henderson,0,75,2,2
+IL,Illinois,Menard,2,4,2,2
+IL,Illinois,Mercer,0,117,2,2
+IL,Illinois,McLean,1,13,1,0
+IL,Illinois,Stark,0,34,2,1
+IL,Illinois,Kane,0,82,2,2
+KS,Kansas,Brown,2,103,0,1
+KS,Kansas,Bourbon,0,84,2,2
+KS,Kansas,Wilson,1,43,1,0
+KS,Kansas,Crawford,1,5,2,2
+KS,Kansas,Cherokee,0,5,2,2
+KS,Kansas,Allen,0,102,0,1
+KS,Kansas,Sedgwick,2,35,0,1
+KS,Kansas,Montgomery,2,21,0,1
+MI,Michigan,Clinton,0,100,0,1
+MN,Minnesota,Beltrami,0,90,2,2
+MN,Minnesota,Cass,1,22,1,0
+MT,Montana,Petroleum,0,78,0,1
+MT,Montana,Toole,0,88,2,2
+MT,Montana,Wibaux,1,47,2,2
+MT,Montana,Flathead,0,41,0,1
+MT,Montana,Liberty,0,101,2,2
+MT,Montana,Missoula,2,58,0,1
+MT,Montana,Carter,1,19,1,0
+MT,Montana,Cascade,2,51,2,2
+NC,North Carolina,Wake,1,44,1,0
+NC,North Carolina,Camden,0,16,0,1
+NH,New Hampshire,Merrimack,2,58,0,1
+NJ,New Jersey,Monmouth,1,83,2,0
+NY,New York,Saratoga,2,89,0,1
+NY,New York,Westchester,1,45,1,0
+NY,New York,Dutchess,0,84,2,2
+NY,New York,Hamilton,1,71,1,0
+OR,Oregon,Washington,0,18,2,2
+RI,Rhode Island,Washington,0,120,2,2
+TX,Texas,Wichita,2,109,0,1
+TX,Texas,Jasper,2,90,2,2
+TX,Texas,Stephens,2,73,0,1
+TX,Texas,Nueces,2,79,0,1
+TX,Texas,McCulloch,2,2,2,2
+TX,Texas,Limestone,2,106,0,1
+TX,Texas,Lamar,0,100,2,2
+TX,Texas,Gregg,0,27,2,2
+TX,Texas,Delta,1,20,2,2
+TX,Texas,Wilbarger,1,40,1,2
+TX,Texas,Anderson,2,51,2,2
+TX,Texas,Taylor,2,12,0,1
+TX,Texas,San Saba,1,68,1,0
+TX,Texas,McLennan,2,104,0,1
+TX,Texas,Real,1,86,1,0
+TX,Texas,Knox,0,46,2,2
+TX,Texas,Hopkins,0,47,2,0
+TX,Texas,Hunt,2,98,0,1
+TX,Texas,Robertson,0,52,2,2
+TX,Texas,Nolan,2,90,2,2
+TX,Texas,Kenedy,2,76,0,1
+TX,Texas,Sterling,1,1,1,0
+TX,Texas,Liberty,2,52,2,2
+TX,Texas,Morris,1,109,0,1
+TX,Texas,Milam,0,18,2,2
+TX,Texas,Matagorda,0,48,2,2
+TX,Texas,Wharton,2,109,0,1
+TX,Texas,Polk,0,61,1,0
+TX,Texas,Jefferson,1,39,1,0
+TX,Texas,Harrison,2,51,0,2
+TX,Texas,Palo Pinto,1,20,2,2
+TX,Texas,Brown,1,93,1,0
+TX,Texas,Stonewall,1,49,1,0
+TX,Texas,Val Verde,1,59,2,1
+TX,Texas,Lynn,0,33,2,1
+TX,Texas,Madison,2,113,0,1
+TX,Texas,Aransas,1,75,2,2
+TX,Texas,Cass,1,85,1,0
+TX,Texas,Baylor,1,63,2,2
+TX,Texas,Briscoe,1,45,1,0
+UT,Utah,Beaver,0,107,2,2
+UT,Utah,Kane,0,2,2,2
+UT,Utah,Box Elder,2,32,0,1
+UT,Utah,Tooele,2,113,0,1
+UT,Utah,Wasatch,1,70,1,0
+VA,Virginia,Pulaski,1,64,1,0
+VA,Virginia,Nelson,0,50,1,0
+VA,Virginia,Rockbridge,1,65,1,0
+VA,Virginia,Amelia,1,71,1,0
+VA,Virginia,Caroline,0,102,0,1
+VA,Virginia,Amherst,2,4,2,2
+VA,Virginia,Williamsburg City,2,51,0,1
+VA,Virginia,Washington,1,20,2,2
+VA,Virginia,Richmond,0,14,0,1
+VA,Virginia,Northumberland,0,27,2,2
+VA,Virginia,Augusta,2,97,0,1
+VA,Virginia,Giles,0,58,2,1
+VA,Virginia,Southampton,0,114,2,2
+VA,Virginia,Craig,1,6,2,2
+VT,Vermont,Windsor,2,9,0,1
+WA,Washington,Snohomish,2,16,0,1
+WI,Wisconsin,Door,1,65,1,0
+WI,Wisconsin,Walworth,1,44,1,0
+WI,Wisconsin,Iowa,1,17,1,0
+WI,Wisconsin,Jefferson,0,0,2,2
+WI,Wisconsin,Marathon,2,78,0,1
+WI,Wisconsin,Oconto,2,2,2,1
+WI,Wisconsin,Sheboygan,1,7,1,0
+WI,Wisconsin,Pierce,1,64,1,0
+WI,Wisconsin,Florence,0,60,0,1
+WI,Wisconsin,La Crosse,1,28,1,0
+WI,Wisconsin,Kewaunee,1,56,1,0
+WI,Wisconsin,Dane,0,47,2,0
+WI,Wisconsin,Trempealeau,0,53,2,2
+WI,Wisconsin,Wood,1,28,1,0
+WI,Wisconsin,Winnebago,2,79,0,2
+WI,Wisconsin,Oneida,0,82,2,2
+WI,Wisconsin,Portage,0,96,2,2
+WI,Wisconsin,Adams,2,4,2,2
+WI,Wisconsin,Lafayette,1,47,1,0
+WI,Wisconsin,Columbia,2,120,2,2
+WY,Wyoming,Washakie,2,58,2,1
+WY,Wyoming,Natrona,0,81,2,2
+AL,Alabama,Shelby,2,73,0,1
+AR,Arkansas,Pulaski,1,85,1,0
+AZ,Arizona,Santa Cruz,2,79,0,1
+AZ,Arizona,Graham,1,67,2,2
+CA,California,Inyo,2,55,0,1
+CA,California,Sierra,0,100,2,2
+CA,California,San Joaquin,0,117,2,2
+CA,California,San Bernardino,2,103,0,1
+CA,California,Sutter,2,89,2,1
+CA,California,Sacramento,2,31,0,2
+CA,California,Monterey,2,87,2,2
+CO,Colorado,Saguache,0,120,2,2
+DE,Delaware,Kent,2,97,0,1
+FL,Florida,Okaloosa,2,72,0,1
+FL,Florida,Gulf,2,2,2,1
+FL,Florida,Union,2,78,2,1
+FL,Florida,Bay,0,52,2,2
+FL,Florida,Orange,1,53,2,2
+FL,Florida,Escambia,1,111,1,0
+FL,Florida,Flagler,2,103,0,1
+FL,Florida,Sarasota,0,53,2,2
+FL,Florida,Charlotte,1,17,2,2
+FL,Florida,Seminole,2,12,0,1
+FL,Florida,Lee,2,58,2,1
+GA,Georgia,McIntosh,0,14,2,1
+GA,Georgia,Bartow,0,80,2,2
+GA,Georgia,Banks,2,14,2,1
+GA,Georgia,Rockdale,1,66,1,0
+GA,Georgia,Long,0,61,2,2
+GA,Georgia,Towns,2,103,0,1
+GA,Georgia,Chatham,1,7,1,0
+GA,Georgia,Johnson,2,16,0,1
+GA,Georgia,Glynn,2,21,0,1
+ID,Idaho,Adams,0,61,1,0
+ID,Idaho,Bingham,1,1,1,0
+ID,Idaho,Jerome,0,90,2,2
+ID,Idaho,Lewis,0,23,2,1
+IL,Illinois,Gallatin,0,84,2,2
+IL,Illinois,Winnebago,2,87,2,2
+IL,Illinois,Franklin,0,83,2,2
+IL,Illinois,Vermilion,2,78,0,1
+IN,Indiana,Huntington,2,9,0,1
+IN,Indiana,Vermillion,0,23,2,2
+IN,Indiana,Fountain,2,51,0,1
+IN,Indiana,White,1,42,1,0
+IN,Indiana,Dearborn,1,50,1,0
+IN,Indiana,Allen,1,66,1,0
+IN,Indiana,Floyd,0,102,2,1
+IN,Indiana,Gibson,0,52,2,2
+IN,Indiana,Kosciusko,2,103,0,1
+IN,Indiana,Noble,1,108,1,0
+KY,Kentucky,Campbell,1,7,2,0
+KY,Kentucky,Woodford,0,18,2,2
+KY,Kentucky,Shelby,0,94,1,2
+KY,Kentucky,Anderson,2,110,0,1
+KY,Kentucky,Bullitt,1,44,1,0
+KY,Kentucky,Kenton,1,62,1,0
+LA,Louisiana,Bossier,2,78,0,1
+LA,Louisiana,Lafayette,0,120,2,2
+LA,Louisiana,Vernon,0,24,2,2
+LA,Louisiana,Plaquemines,0,100,2,2
+MA,Massachusetts,Suffolk,1,114,2,2
+MA,Massachusetts,Essex,0,61,1,0
+ME,Maine,Waldo,2,14,0,1
+ME,Maine,Sagadahoc,2,78,0,1
+ME,Maine,Kennebec,1,111,1,0
+ME,Maine,Somerset,2,9,0,1
+MI,Michigan,Ingham,1,83,2,0
+MI,Michigan,Hillsdale,0,53,2,2
+MI,Michigan,St. Joseph,0,87,2,2
+MI,Michigan,Calhoun,1,116,1,0
+MI,Michigan,Delta,1,95,2,2
+MI,Michigan,Mason,2,35,0,1
+MI,Michigan,Baraga,1,15,1,0
+MI,Michigan,Berrien,0,27,0,2
+MI,Michigan,Ontonagon,2,73,0,1
+MI,Michigan,Kalamazoo,0,61,1,2
+MI,Michigan,Montmorency,1,54,1,0
+MI,Michigan,Alpena,0,37,2,2
+MI,Michigan,Branch,0,74,2,2
+MI,Michigan,Menominee,1,111,1,0
+MI,Michigan,Van Buren,2,36,0,1
+MO,Missouri,Jackson,1,1,1,0
+MO,Missouri,Putnam,0,23,2,1
+MO,Missouri,Carroll,2,35,0,1
+MO,Missouri,Cape Girardeau,0,76,0,1
+MO,Missouri,Worth,0,14,2,1
+MO,Missouri,Gasconade,0,120,2,2
+MO,Missouri,Maries,2,6,2,2
+MO,Missouri,Caldwell,1,68,1,0
+MO,Missouri,Pike,0,81,2,2
+MO,Missouri,Lewis,1,111,1,0
+MO,Missouri,Stoddard,2,55,0,1
+MO,Missouri,Camden,0,117,2,2
+MO,Missouri,Monroe,0,0,2,2
+MO,Missouri,Livingston,1,44,1,0
+MS,Mississippi,Carroll,2,55,0,1
+MS,Mississippi,Hancock,1,83,2,0
+MS,Mississippi,Marshall,1,45,1,0
+MS,Mississippi,Tate,0,95,2,2
+MS,Mississippi,Pontotoc,1,39,1,0
+MS,Mississippi,Smith,2,51,2,1
+MT,Montana,Lake,2,26,0,1
+MT,Montana,Silver Bow,0,119,2,1
+NC,North Carolina,Avery,2,31,2,2
+NC,North Carolina,Yancey,1,102,2,1
+NC,North Carolina,Madison,1,6,2,2
+NC,North Carolina,Mitchell,0,80,2,2
+NC,North Carolina,New Hanover,1,53,2,2
+NC,North Carolina,Person,2,89,0,1
+NC,North Carolina,Gates,1,19,1,0
+NC,North Carolina,Onslow,1,56,1,0
+NC,North Carolina,Beaufort,0,88,0,1
+NC,North Carolina,Macon,2,16,0,1
+NC,North Carolina,Nash,2,90,2,2
+NC,North Carolina,Lee,2,32,0,1
+NC,North Carolina,Haywood,0,90,2,2
+NC,North Carolina,Pasquotank,0,117,2,2
+NJ,New Jersey,Ocean,2,106,0,1
+NM,New Mexico,Hidalgo,2,119,0,1
+NM,New Mexico,Sierra,0,102,0,1
+NM,New Mexico,Chaves,2,112,0,1
+NM,New Mexico,Valencia,0,34,0,1
+NM,New Mexico,De Baca,0,84,2,2
+NV,Nevada,Lincoln,2,35,0,1
+NV,Nevada,Churchill,1,62,1,2
+NV,Nevada,Lyon,0,24,2,2
+NY,New York,St. Lawrence,0,95,2,2
+NY,New York,Sullivan,0,41,0,1
+NY,New York,Oswego,2,98,0,1
+NY,New York,Cattaraugus,0,83,2,2
+NY,New York,Franklin,1,68,1,0
+NY,New York,Chautauqua,2,110,0,1
+NY,New York,Montgomery,1,44,1,0
+OH,Ohio,Ottawa,0,0,2,2
+OH,Ohio,Wyandot,0,74,2,2
+OH,Ohio,Madison,0,100,0,1
+OH,Ohio,Pickaway,0,57,2,2
+OH,Ohio,Fulton,2,79,0,1
+OH,Ohio,Morrow,2,112,0,1
+OH,Ohio,Greene,2,79,0,1
+OH,Ohio,Mercer,2,31,2,2
+OK,Oklahoma,Kingfisher,1,114,2,2
+OK,Oklahoma,Canadian,1,15,1,0
+OK,Oklahoma,Grant,2,16,0,1
+OR,Oregon,Deschutes,0,120,2,2
+OR,Oregon,Columbia,2,52,2,2
+OR,Oregon,Hood River,2,12,0,1
+PA,Pennsylvania,Elk,0,36,0,1
+PA,Pennsylvania,Wayne,0,57,2,2
+PA,Pennsylvania,Franklin,0,84,2,2
+PA,Pennsylvania,Delaware,0,81,2,2
+PA,Pennsylvania,Wyoming,2,103,0,1
+PA,Pennsylvania,Union,2,119,0,1
+PA,Pennsylvania,Perry,1,85,1,0
+PA,Pennsylvania,Pike,0,52,2,2
+PA,Pennsylvania,Allegheny,1,44,1,0
+RI,Rhode Island,Providence,1,43,1,0
+SC,South Carolina,Edgefield,1,93,1,0
+SC,South Carolina,Greenville,1,45,1,0
+SD,South Dakota,Bennett,1,28,1,0
+TN,Tennessee,Williamson,1,42,1,0
+VA,Virginia,Lee,1,45,1,0
+VA,Virginia,Buena Vista City,1,74,2,2
+VA,Virginia,Accomack,0,53,2,2
+VA,Virginia,Galax City,2,120,2,2
+VA,Virginia,Henry,2,55,0,1
+VA,Virginia,Buchanan,1,62,2,0
+VA,Virginia,Halifax,0,67,2,2
+WA,Washington,Mason,0,58,2,1
+WA,Washington,Stevens,2,110,0,1
+WA,Washington,Pierce,2,106,0,1
+WA,Washington,Columbia,2,110,0,1
+WA,Washington,Kittitas,1,59,2,2
+WA,Washington,Skamania,2,14,2,1
+WA,Washington,Lewis,1,49,1,0
+WA,Washington,Franklin,0,58,2,1
+WA,Washington,Grant,1,22,1,0
+WI,Wisconsin,Rock,0,50,1,0
+WI,Wisconsin,Vilas,0,37,2,2
+WI,Wisconsin,Forest,1,99,1,2
+AK,Alaska,Northwest Arctic,1,1,1,0
+AK,Alaska,Yukon-Koyukuk,1,71,1,0
+AR,Arkansas,Cleburne,0,101,2,2
+AR,Arkansas,Washington,2,16,0,1
+AR,Arkansas,Perry,0,30,2,2
+AR,Arkansas,Pope,1,10,1,0
+AR,Arkansas,White,1,92,1,0
+AR,Arkansas,Greene,0,58,2,1
+AZ,Arizona,Gila,0,18,2,2
+CA,California,Glenn,0,60,0,1
+CA,California,Stanislaus,0,83,2,2
+CA,California,Trinity,2,53,2,2
+CA,California,Alpine,2,9,2,1
+CA,California,Humboldt,0,14,2,1
+CA,California,Siskiyou,0,74,2,0
+CA,California,Merced,0,46,2,2
+FL,Florida,Glades,1,15,1,0
+FL,Florida,Polk,0,2,0,1
+FL,Florida,Duval,1,20,2,2
+FL,Florida,Dixie,2,16,0,1
+FL,Florida,Gilchrist,1,44,1,0
+FL,Florida,Lafayette,2,105,0,2
+FL,Florida,St. Lucie,0,61,2,2
+GA,Georgia,Fannin,1,6,2,2
+GA,Georgia,Muscogee,1,86,1,0
+GA,Georgia,Appling,2,77,0,1
+GA,Georgia,Baker,2,113,0,1
+GA,Georgia,Montgomery,1,44,1,0
+GA,Georgia,Murray,0,117,2,2
+GA,Georgia,Ware,2,98,0,1
+GA,Georgia,Polk,0,117,2,2
+GA,Georgia,Lowndes,0,109,2,1
+GA,Georgia,Treutlen,2,113,0,1
+GA,Georgia,Irwin,0,84,2,2
+GA,Georgia,Wilcox,1,85,1,0
+GA,Georgia,Marion,2,52,2,2
+GA,Georgia,Dodge,1,62,1,0
+GA,Georgia,Whitfield,2,36,2,1
+GA,Georgia,Bleckley,0,53,2,2
+GA,Georgia,Hart,1,107,2,2
+GA,Georgia,Tattnall,0,30,2,2
+GA,Georgia,McDuffie,2,9,0,1
+GA,Georgia,Worth,2,38,0,1
+GA,Georgia,Seminole,0,6,2,2
+GA,Georgia,Stephens,1,6,2,2
+ID,Idaho,Camas,2,103,0,1
+ID,Idaho,Owyhee,0,63,2,2
+ID,Idaho,Madison,2,16,0,1
+IN,Indiana,LaGrange,2,110,0,1
+IN,Indiana,Randolph,1,17,2,0
+IN,Indiana,Henry,1,72,2,2
+IN,Indiana,Vanderburgh,0,41,0,1
+IN,Indiana,Tippecanoe,1,83,1,0
+IN,Indiana,Orange,0,103,0,1
+IN,Indiana,St. Joseph,1,0,2,2
+IN,Indiana,Crawford,1,64,1,0
+IN,Indiana,Howard,2,31,0,1
+IN,Indiana,Jay,2,33,0,1
+IN,Indiana,Lawrence,0,83,2,0
+IN,Indiana,Scott,0,27,2,2
+IN,Indiana,Sullivan,1,68,1,0
+IN,Indiana,Miami,2,58,2,1
+KY,Kentucky,Greenup,0,18,2,2
+KY,Kentucky,Crittenden,1,15,1,0
+KY,Kentucky,Marion,2,97,0,1
+KY,Kentucky,Grant,2,91,2,2
+KY,Kentucky,Webster,0,109,0,1
+KY,Kentucky,Washington,0,2,2,2
+KY,Kentucky,Simpson,1,93,1,0
+KY,Kentucky,Caldwell,0,4,2,2
+KY,Kentucky,Mason,0,2,2,2
+KY,Kentucky,Nelson,2,73,0,1
+KY,Kentucky,Henderson,2,60,0,1
+KY,Kentucky,Nicholas,2,89,0,1
+KY,Kentucky,Henry,0,6,2,2
+KY,Kentucky,Garrard,2,119,0,1
+KY,Kentucky,Breckinridge,1,108,1,0
+KY,Kentucky,Bourbon,1,64,1,0
+KY,Kentucky,McCracken,1,66,1,0
+KY,Kentucky,Mercer,0,75,2,1
+KY,Kentucky,Gallatin,1,0,2,2
+KY,Kentucky,Calloway,1,7,1,0
+LA,Louisiana,Calcasieu,1,86,1,0
+LA,Louisiana,Caldwell,0,82,2,1
+LA,Louisiana,Catahoula,2,113,0,1
+LA,Louisiana,Terrebonne,0,27,2,2
+LA,Louisiana,Iberia,1,49,1,0
+LA,Louisiana,Iberville,0,18,2,2
+LA,Louisiana,Jefferson Davis,0,23,2,2
+LA,Louisiana,Beauregard,1,49,1,0
+MA,Massachusetts,Berkshire,0,23,2,2
+MD,Maryland,Somerset,0,23,2,2
+ME,Maine,Piscataquis,2,72,2,1
+MI,Michigan,Wayne,0,95,2,1
+MI,Michigan,Roscommon,2,106,0,1
+MI,Michigan,Schoolcraft,0,67,2,2
+MI,Michigan,Clare,2,89,2,1
+MN,Minnesota,Mahnomen,0,2,2,2
+MO,Missouri,Ozark,2,9,0,1
+MO,Missouri,Laclede,2,55,0,1
+MO,Missouri,Knox,2,32,0,1
+MO,Missouri,Morgan,1,65,1,0
+MO,Missouri,Dade,2,32,0,1
+MO,Missouri,Madison,1,86,1,0
+MO,Missouri,Iron,1,66,1,0
+MO,Missouri,Dallas,0,48,2,2
+MO,Missouri,Pettis,0,58,2,1
+MO,Missouri,Scott,0,102,0,1
+MO,Missouri,Dent,2,117,2,2
+MO,Missouri,Taney,2,103,0,1
+MO,Missouri,Benton,0,23,2,2
+MO,Missouri,Buchanan,0,23,2,2
+MO,Missouri,Barton,2,12,0,1
+MO,Missouri,Washington,0,26,0,1
+MO,Missouri,Shannon,0,67,2,2
+MO,Missouri,Polk,1,45,1,0
+MS,Mississippi,Attala,0,73,0,1
+MS,Mississippi,Covington,1,3,1,0
+MS,Mississippi,Clay,1,86,1,0
+MS,Mississippi,Montgomery,0,88,2,2
+MS,Mississippi,Benton,2,32,0,1
+MS,Mississippi,Simpson,2,31,2,2
+MS,Mississippi,Lincoln,1,115,1,0
+MS,Mississippi,Forrest,1,15,1,0
+MS,Mississippi,Walthall,1,86,1,0
+MS,Mississippi,Choctaw,2,35,0,1
+MS,Mississippi,Perry,2,36,0,1
+MS,Mississippi,Copiah,1,40,2,0
+MS,Mississippi,Scott,1,5,2,2
+MS,Mississippi,Yazoo,2,32,0,1
+MS,Mississippi,Calhoun,2,36,2,1
+MS,Mississippi,Tippah,1,68,1,0
+MS,Mississippi,Hinds,0,30,2,2
+MS,Mississippi,Oktibbeha,2,14,2,1
+NC,North Carolina,Lenoir,2,98,0,1
+NC,North Carolina,Hoke,2,113,0,1
+NC,North Carolina,Wilson,0,117,2,2
+NC,North Carolina,Chowan,1,20,2,2
+NC,North Carolina,Warren,0,84,2,2
+NC,North Carolina,Montgomery,2,69,0,1
+NC,North Carolina,Richmond,2,75,2,2
+NC,North Carolina,Rutherford,2,53,2,2
+NM,New Mexico,Dona Ana,2,113,0,1
+NM,New Mexico,San Juan,2,53,2,2
+NM,New Mexico,Luna,0,23,2,2
+NM,New Mexico,Rio Arriba,1,43,1,0
+OH,Ohio,Erie,1,43,1,0
+OH,Ohio,Marion,0,60,0,1
+OH,Ohio,Fayette,2,79,0,1
+OH,Ohio,Columbiana,0,94,2,2
+OH,Ohio,Franklin,1,100,2,1
+OH,Ohio,Ashland,1,111,1,2
+OH,Ohio,Sandusky,2,77,0,1
+OH,Ohio,Hocking,2,51,0,1
+OH,Ohio,Trumbull,0,2,2,2
+OH,Ohio,Brown,0,6,2,2
+OH,Ohio,Harrison,0,81,2,2
+OH,Ohio,Darke,0,34,2,2
+OH,Ohio,Ross,2,14,0,1
+OH,Ohio,Monroe,0,97,0,1
+OH,Ohio,Noble,0,97,0,1
+OK,Oklahoma,Oklahoma,0,52,2,1
+OK,Oklahoma,Washington,0,70,2,2
+OK,Oklahoma,Love,2,89,0,1
+OK,Oklahoma,Cleveland,2,2,2,1
+OR,Oregon,Jackson,1,44,1,0
+OR,Oregon,Umatilla,2,26,0,1
+OR,Oregon,Douglas,0,70,2,0
+OR,Oregon,Tillamook,1,64,1,0
+OR,Oregon,Wasco,0,90,2,2
+OR,Oregon,Baker,1,64,1,0
+OR,Oregon,Union,0,100,2,1
+OR,Oregon,Josephine,0,37,2,2
+OR,Oregon,Lake,1,68,1,0
+OR,Oregon,Grant,0,81,2,2
+PA,Pennsylvania,Clearfield,0,18,2,2
+PA,Pennsylvania,Northumberland,1,40,1,2
+PA,Pennsylvania,McKean,0,70,2,2
+PA,Pennsylvania,Lawrence,0,41,0,1
+PA,Pennsylvania,Potter,0,100,2,2
+PA,Pennsylvania,Mifflin,0,37,2,2
+PA,Pennsylvania,Columbia,2,31,2,2
+PA,Pennsylvania,Lackawanna,0,102,2,2
+PA,Pennsylvania,Crawford,0,84,2,2
+PA,Pennsylvania,Erie,0,53,2,2
+PA,Pennsylvania,Blair,2,103,0,1
+PA,Pennsylvania,Cambria,1,44,1,0
+PA,Pennsylvania,Tioga,0,113,0,1
+SC,South Carolina,Aiken,1,1,1,0
+SC,South Carolina,Hampton,0,30,2,2
+SC,South Carolina,Orangeburg,1,65,1,0
+SC,South Carolina,Pickens,0,37,2,2
+SC,South Carolina,Oconee,1,1,1,0
+SC,South Carolina,Saluda,0,18,2,2
+SC,South Carolina,Georgetown,1,71,1,0
+SD,South Dakota,Corson,0,48,2,1
+TN,Tennessee,Wilson,0,73,0,1
+VA,Virginia,Emporia City,2,103,0,1
+AL,Alabama,Washington,0,18,2,2
+AL,Alabama,Bibb,0,84,2,2
+AL,Alabama,Chilton,1,44,1,0
+AL,Alabama,Lauderdale,1,43,1,0
+AL,Alabama,Lawrence,0,6,2,2
+AL,Alabama,Dale,1,22,1,0
+AL,Alabama,Coffee,1,20,2,2
+AR,Arkansas,Crittenden,0,30,2,2
+AR,Arkansas,Woodruff,1,39,1,0
+AR,Arkansas,Stone,0,85,1,0
+AR,Arkansas,Drew,0,27,2,2
+AR,Arkansas,Hempstead,2,51,0,2
+AR,Arkansas,Polk,2,30,2,2
+AR,Arkansas,Desha,1,62,1,2
+AZ,Arizona,Navajo,1,115,1,0
+GA,Georgia,Ben Hill,1,13,1,0
+GA,Georgia,Twiggs,0,31,2,2
+GA,Georgia,Quitman,0,29,1,0
+GA,Georgia,Randolph,0,81,2,2
+GA,Georgia,Jefferson,2,113,0,1
+IL,Illinois,Alexander,0,89,0,1
+KY,Kentucky,Johnson,2,91,2,1
+KY,Kentucky,Elliott,2,33,0,1
+KY,Kentucky,Monroe,2,72,0,1
+KY,Kentucky,Magoffin,1,53,2,2
+KY,Kentucky,Powell,0,52,2,2
+KY,Kentucky,Cumberland,0,70,2,2
+KY,Kentucky,Estill,0,2,2,2
+KY,Kentucky,Wayne,1,39,1,0
+KY,Kentucky,Casey,1,22,1,0
+KY,Kentucky,Knott,2,78,0,1
+KY,Kentucky,Lee,2,110,0,1
+KY,Kentucky,Lewis,0,6,2,2
+KY,Kentucky,Martin,2,2,2,2
+KY,Kentucky,Whitley,1,17,2,0
+KY,Kentucky,Clinton,0,107,2,2
+LA,Louisiana,Morehouse,2,97,0,1
+MA,Massachusetts,Bristol,0,2,0,1
+MS,Mississippi,Noxubee,2,77,0,1
+MT,Montana,Glacier,1,65,1,0
+NV,Nevada,Esmeralda,1,115,1,0
+OH,Ohio,Muskingum,2,21,0,1
+OH,Ohio,Pike,1,64,1,0
+OK,Oklahoma,Johnston,2,113,0,1
+OK,Oklahoma,Mayes,2,36,2,2
+OK,Oklahoma,Kiowa,1,74,1,0
+OK,Oklahoma,Craig,1,0,1,2
+OK,Oklahoma,McIntosh,2,105,0,2
+OK,Oklahoma,Okmulgee,1,86,1,0
+SC,South Carolina,Marlboro,0,61,1,0
+SC,South Carolina,Dillon,1,3,1,0
+SD,South Dakota,Todd,0,80,2,2
+TN,Tennessee,Sevier,1,62,1,2
+TN,Tennessee,DeKalb,1,71,1,0
+TN,Tennessee,Cumberland,2,79,0,1
+TN,Tennessee,Dyer,0,58,2,1
+TN,Tennessee,Cannon,2,16,0,1
+TN,Tennessee,Chester,0,97,0,1
+TN,Tennessee,Roane,0,18,2,2
+TN,Tennessee,Stewart,0,96,2,2
+TN,Tennessee,Jefferson,2,21,0,1
+TN,Tennessee,Pickett,2,12,0,1
+TN,Tennessee,Putnam,0,36,0,1
+TN,Tennessee,Marshall,2,58,0,1
+TN,Tennessee,Henderson,0,112,0,1
+TN,Tennessee,Hickman,1,1,1,0
+TN,Tennessee,Marion,0,14,2,1
+UT,Utah,San Juan,2,35,0,1
+WV,West Virginia,Raleigh,0,118,2,2
+WV,West Virginia,Taylor,0,58,2,1
+WV,West Virginia,Tyler,0,67,2,2
+WV,West Virginia,Upshur,0,61,1,0
+WV,West Virginia,Berkeley,2,69,0,1
+WV,West Virginia,Greenbrier,2,35,0,1
+WV,West Virginia,Wirt,1,54,1,0
+WV,West Virginia,Harrison,0,40,2,2
+WV,West Virginia,Grant,0,6,2,2
+WV,West Virginia,Jackson,2,88,0,1
+WV,West Virginia,Wood,1,22,1,0
+WV,West Virginia,Monroe,2,9,0,1
+WV,West Virginia,Marshall,0,52,0,2
+AL,Alabama,Monroe,0,87,2,2
+AL,Alabama,Butler,1,83,1,0
+AL,Alabama,Marengo,1,100,2,2
+AL,Alabama,Pike,0,53,2,2
+AL,Alabama,Etowah,2,12,0,1
+AL,Alabama,Hale,2,91,2,1
+KY,Kentucky,Wolfe,0,31,2,2
+KY,Kentucky,McCreary,1,24,2,2
+LA,Louisiana,East Carroll,1,13,1,0
+TN,Tennessee,Cocke,0,27,2,2
+TN,Tennessee,Scott,2,16,0,1
+TN,Tennessee,Fentress,0,94,2,2
+TN,Tennessee,Lauderdale,2,103,0,1
+WV,West Virginia,Mingo,0,46,2,2
+WV,West Virginia,Fayette,2,60,0,1
+WV,West Virginia,Wyoming,0,117,2,2
+AK,Alaska,Fairbanks North Star,2,31,0,2
+AK,Alaska,Denali,2,51,2,1
+CO,Colorado,Elbert,1,39,1,0
+HI,Hawaii,Honolulu,1,28,1,0
+IA,Iowa,Jones,0,37,2,2
+IA,Iowa,Kossuth,2,73,0,1
+IA,Iowa,Buena Vista,0,75,2,2
+IA,Iowa,Grundy,0,89,0,1
+IA,Iowa,Bremer,1,83,2,0
+IA,Iowa,Dickinson,2,110,0,1
+IA,Iowa,Warren,2,79,0,1
+IA,Iowa,Lyon,2,72,2,1
+IA,Iowa,Sioux,2,36,0,1
+KS,Kansas,McPherson,2,106,0,1
+KS,Kansas,Jefferson,0,90,2,2
+KS,Kansas,Thomas,1,13,1,0
+MD,Maryland,Montgomery,1,18,2,2
+MN,Minnesota,Yellow Medicine,2,51,2,2
+MN,Minnesota,Marshall,0,53,2,2
+MN,Minnesota,Otter Tail,0,82,2,2
+MN,Minnesota,Wabasha,2,106,0,1
+MN,Minnesota,Douglas,2,12,0,1
+MN,Minnesota,Watonwan,0,84,2,2
+MN,Minnesota,Sherburne,1,62,1,0
+MN,Minnesota,Nicollet,1,111,1,2
+MN,Minnesota,Rice,0,90,2,2
+MN,Minnesota,Brown,0,30,2,2
+MN,Minnesota,Meeker,2,79,2,1
+MN,Minnesota,Waseca,0,97,0,1
+MN,Minnesota,Lac qui Parle,2,110,0,1
+MN,Minnesota,Le Sueur,2,106,0,1
+ND,North Dakota,Golden Valley,2,106,0,1
+ND,North Dakota,McIntosh,0,120,2,2
+ND,North Dakota,Emmons,1,10,1,0
+ND,North Dakota,Pierce,0,74,2,2
+ND,North Dakota,Burke,0,84,2,2
+ND,North Dakota,Ward,2,31,2,2
+ND,North Dakota,Grant,0,48,2,2
+ND,North Dakota,Ramsey,0,94,1,0
+ND,North Dakota,Williams,2,38,0,1
+ND,North Dakota,Grand Forks,1,115,1,0
+NE,Nebraska,Logan,1,39,1,0
+NE,Nebraska,Johnson,2,51,0,1
+NE,Nebraska,Otoe,0,74,2,2
+NE,Nebraska,Madison,0,2,2,2
+NE,Nebraska,Frontier,0,117,2,2
+NE,Nebraska,Cherry,0,118,2,2
+NE,Nebraska,Cheyenne,0,74,2,2
+NE,Nebraska,Clay,2,110,0,1
+NE,Nebraska,McPherson,0,52,2,2
+NE,Nebraska,York,2,73,0,1
+NE,Nebraska,Chase,0,75,2,2
+NE,Nebraska,Hayes,2,26,0,1
+NE,Nebraska,Arthur,1,37,2,2
+NE,Nebraska,Boone,1,25,1,0
+NE,Nebraska,Red Willow,0,18,2,2
+NE,Nebraska,Gosper,2,73,0,1
+NE,Nebraska,Buffalo,0,75,2,2
+NE,Nebraska,Holt,2,110,0,1
+NE,Nebraska,Merrick,2,55,0,1
+NE,Nebraska,Colfax,0,52,0,1
+NE,Nebraska,Sherman,2,90,2,2
+SD,South Dakota,Moody,1,86,1,0
+SD,South Dakota,Brule,0,73,0,1
+SD,South Dakota,Faulk,0,75,2,2
+SD,South Dakota,Pennington,2,112,0,1
+TX,Texas,Rockwall,0,33,0,1
+TX,Texas,Williamson,1,10,1,0
+TX,Texas,Concho,2,73,0,1
+UT,Utah,Summit,0,87,2,2
+VA,Virginia,Prince William,2,98,0,1
+VA,Virginia,Fairfax City,1,1,1,0
+CA,California,Marin,2,0,2,2
+CO,Colorado,Fremont,1,53,2,2
+CO,Colorado,Sedgwick,1,15,1,0
+CO,Colorado,Lincoln,0,18,2,2
+CO,Colorado,Logan,0,41,2,1
+CO,Colorado,Jackson,0,81,2,2
+CO,Colorado,Kit Carson,2,16,0,1
+CO,Colorado,Montrose,2,76,0,1
+CO,Colorado,Garfield,0,23,2,2
+CT,Connecticut,Tolland,0,2,2,2
+CT,Connecticut,Fairfield,2,38,0,1
+CT,Connecticut,Litchfield,1,40,1,0
+DC,District of Columbia,District of Columbia,0,117,2,2
+GA,Georgia,Forsyth,0,81,2,2
+IA,Iowa,Montgomery,2,73,2,1
+IA,Iowa,Webster,1,99,2,2
+IA,Iowa,Clinton,0,36,0,1
+ID,Idaho,Valley,1,13,1,0
+IL,Illinois,Woodford,2,105,2,2
+IL,Illinois,Piatt,0,26,0,1
+IL,Illinois,Lake,2,32,0,1
+IL,Illinois,Brown,1,99,2,2
+IL,Illinois,Jersey,2,76,0,1
+IL,Illinois,Clinton,2,91,2,2
+IL,Illinois,Jasper,0,117,2,2
+IL,Illinois,Putnam,0,33,2,1
+IL,Illinois,Jo Daviess,0,58,2,1
+KS,Kansas,Finney,0,67,2,2
+KS,Kansas,Riley,0,52,0,1
+KS,Kansas,Woodson,2,119,0,1
+KS,Kansas,Neosho,0,18,2,2
+KS,Kansas,Hamilton,2,31,2,2
+KS,Kansas,Ford,2,119,0,1
+KS,Kansas,Labette,0,75,2,2
+KS,Kansas,Atchison,0,48,0,1
+KS,Kansas,Greenwood,1,49,1,0
+KS,Kansas,Cloud,1,15,1,0
+KS,Kansas,Chautauqua,2,32,0,1
+KS,Kansas,Cowley,1,39,1,0
+KS,Kansas,Decatur,2,98,0,1
+KS,Kansas,Smith,1,5,2,2
+MA,Massachusetts,Norfolk,1,13,1,0
+MD,Maryland,Calvert,0,40,2,2
+MD,Maryland,Frederick,2,112,0,1
+MD,Maryland,Charles,2,9,0,1
+ME,Maine,Cumberland,1,1,1,0
+MI,Michigan,Livingston,1,45,1,0
+MN,Minnesota,Blue Earth,0,100,2,1
+MN,Minnesota,Clearwater,1,114,2,2
+MN,Minnesota,Pine,1,1,1,0
+MT,Montana,Sweet Grass,1,44,1,0
+MT,Montana,Beaverhead,2,110,0,1
+MT,Montana,Valley,2,2,2,2
+MT,Montana,Granite,1,85,1,0
+MT,Montana,Dawson,2,12,0,1
+MT,Montana,Carbon,0,18,2,2
+MT,Montana,Powder River,0,18,2,2
+MT,Montana,Yellowstone,0,70,2,0
+NH,New Hampshire,Hillsborough,2,77,0,1
+NJ,New Jersey,Bergen,0,84,2,2
+NJ,New Jersey,Sussex,2,97,0,1
+NJ,New Jersey,Union,0,41,0,1
+NY,New York,Suffolk,1,62,1,0
+OH,Ohio,Delaware,2,76,0,1
+RI,Rhode Island,Newport,2,77,0,1
+RI,Rhode Island,Bristol,2,41,0,1
+SD,South Dakota,Charles Mix,2,73,0,1
+TX,Texas,Dallas,0,78,0,1
+TX,Texas,Dawson,2,32,0,1
+TX,Texas,Grayson,2,32,0,1
+TX,Texas,Moore,2,73,0,1
+TX,Texas,Karnes,2,109,2,1
+TX,Texas,Oldham,0,30,2,2
+TX,Texas,Ector,2,112,0,1
+TX,Texas,Leon,1,111,1,0
+TX,Texas,Van Zandt,2,12,0,1
+TX,Texas,Parmer,0,90,2,2
+TX,Texas,Dallam,2,91,0,1
+TX,Texas,Donley,0,104,0,1
+TX,Texas,Lampasas,0,75,2,2
+TX,Texas,Refugio,2,79,0,1
+TX,Texas,Colorado,0,47,2,0
+TX,Texas,Bosque,1,54,1,0
+TX,Texas,Brewster,2,105,2,2
+TX,Texas,Young,0,84,2,2
+TX,Texas,Bee,0,41,0,1
+TX,Texas,San Jacinto,0,18,2,2
+TX,Texas,Harris,0,37,2,2
+TX,Texas,Burnet,1,19,1,0
+TX,Texas,Grimes,2,113,0,1
+TX,Texas,Coryell,0,86,1,0
+TX,Texas,Kerr,0,50,2,0
+TX,Texas,Lubbock,2,4,2,2
+TX,Texas,Sherman,0,90,2,2
+TX,Texas,Hutchinson,1,28,1,0
+TX,Texas,Martin,1,92,1,0
+TX,Texas,Ward,2,113,0,1
+TX,Texas,Edwards,2,88,2,2
+TX,Texas,Upton,1,71,1,0
+TX,Texas,Schleicher,1,86,1,0
+TX,Texas,Hays,0,58,2,2
+TX,Texas,Smith,2,12,0,1
+TX,Texas,Terry,1,17,1,0
+TX,Texas,Fannin,1,6,2,2
+TX,Texas,Foard,1,63,1,2
+TX,Texas,Newton,1,64,1,0
+TX,Texas,Walker,1,0,2,0
+TX,Texas,Bell,0,50,1,0
+TX,Texas,Wood,2,105,2,2
+TX,Texas,Haskell,0,80,2,2
+TX,Texas,Atascosa,0,95,2,2
+TX,Texas,Callahan,0,58,2,2
+TX,Texas,Menard,1,1,1,0
+TX,Texas,Tom Green,0,81,2,2
+VA,Virginia,Floyd,1,5,2,2
+VA,Virginia,Orange,1,50,1,0
+VA,Virginia,Rappahannock,1,13,1,0
+VA,Virginia,Suffolk City,1,65,1,0
+VA,Virginia,Shenandoah,0,53,2,2
+VA,Virginia,King William,0,100,2,2
+VA,Virginia,Fluvanna,1,85,1,0
+VA,Virginia,Middlesex,0,50,1,0
+VA,Virginia,Greene,1,6,2,2
+VA,Virginia,Colonial Heights City,1,29,1,0
+VA,Virginia,Henrico,0,109,0,1
+VA,Virginia,Salem City,2,109,0,1
+WI,Wisconsin,Green,0,26,0,1
+WI,Wisconsin,Fond du Lac,2,81,0,2
+WI,Wisconsin,Manitowoc,2,2,2,1
+WY,Wyoming,Big Horn,0,80,2,2
+WY,Wyoming,Sweetwater,2,58,2,1
+WY,Wyoming,Laramie,2,110,0,2
+WY,Wyoming,Carbon,1,96,2,0
+WY,Wyoming,Hot Springs,1,0,1,0
+WY,Wyoming,Sheridan,2,9,2,1
+WY,Wyoming,Uinta,0,82,2,2
+WY,Wyoming,Platte,2,41,0,1
+AZ,Arizona,Pima,0,41,0,1
+CA,California,Mariposa,2,103,0,1
+CA,California,Tuolumne,2,9,0,1
+CA,California,Santa Cruz,0,23,2,1
+CA,California,Yolo,0,26,0,1
+CO,Colorado,Prowers,1,93,1,0
+CO,Colorado,Alamosa,0,6,2,2
+FL,Florida,Collier,0,81,2,2
+FL,Florida,Pinellas,0,90,2,2
+FL,Florida,Broward,0,53,2,2
+FL,Florida,Lake,0,36,0,1
+FL,Florida,Martin,2,35,0,1
+FL,Florida,Brevard,0,40,2,2
+FL,Florida,Nassau,0,90,2,2
+GA,Georgia,Houston,1,42,1,0
+GA,Georgia,Catoosa,2,60,0,1
+GA,Georgia,Union,2,113,0,1
+GA,Georgia,Pickens,1,93,1,0
+GA,Georgia,Butts,0,7,2,0
+GA,Georgia,Morgan,0,6,2,2
+GA,Georgia,Hall,1,39,1,0
+GA,Georgia,Chattahoochee,0,31,2,2
+GA,Georgia,Pike,2,72,0,1
+GA,Georgia,Monroe,0,57,0,1
+GA,Georgia,Dade,2,32,0,1
+GA,Georgia,Dawson,2,106,0,1
+GA,Georgia,Charlton,0,67,2,2
+ID,Idaho,Benewah,1,25,1,0
+ID,Idaho,Twin Falls,2,38,0,1
+ID,Idaho,Shoshone,1,28,1,0
+ID,Idaho,Lemhi,0,90,2,2
+IL,Illinois,Macon,1,15,1,0
+IL,Illinois,St. Clair,2,104,0,1
+IL,Illinois,Edgar,1,62,1,0
+IL,Illinois,Union,1,64,1,0
+IL,Illinois,Moultrie,2,110,0,1
+IL,Illinois,Hamilton,0,101,2,1
+IL,Illinois,Knox,1,64,1,0
+IL,Illinois,Massac,1,74,1,0
+IL,Illinois,Champaign,1,43,1,0
+IL,Illinois,Marion,2,110,0,1
+IN,Indiana,Perry,0,82,2,2
+IN,Indiana,Tipton,2,78,0,1
+IN,Indiana,Warrick,0,84,2,2
+IN,Indiana,Steuben,1,96,2,0
+IN,Indiana,Spencer,2,32,0,1
+IN,Indiana,Carroll,0,101,2,1
+IN,Indiana,Wells,2,34,0,1
+IN,Indiana,Ohio,1,65,1,0
+IN,Indiana,Bartholomew,0,101,2,2
+IN,Indiana,Putnam,0,117,2,2
+IN,Indiana,Porter,2,16,0,1
+KY,Kentucky,Lyon,2,35,0,1
+KY,Kentucky,Scott,2,35,0,1
+KY,Kentucky,Jefferson,0,81,2,2
+LA,Louisiana,St. Charles,2,112,0,1
+LA,Louisiana,Jefferson,2,112,0,1
+LA,Louisiana,Cameron,1,83,2,2
+LA,Louisiana,East Baton Rouge,0,4,2,2
+MD,Maryland,Dorchester,0,109,0,1
+MD,Maryland,Washington,1,111,1,2
+MD,Maryland,Baltimore,0,30,2,2
+ME,Maine,York,2,31,0,1
+ME,Maine,Hancock,0,60,2,1
+MI,Michigan,St. Clair,0,75,2,2
+MI,Michigan,Bay,2,98,0,1
+MI,Michigan,Alcona,0,27,0,2
+MI,Michigan,Presque Isle,0,12,0,1
+MI,Michigan,Tuscola,2,16,0,1
+MI,Michigan,Iron,2,23,2,2
+MI,Michigan,Manistee,1,43,1,0
+MI,Michigan,Alger,1,50,2,0
+MI,Michigan,Cass,0,23,2,1
+MI,Michigan,Antrim,2,12,0,1
+MI,Michigan,Jackson,2,55,0,1
+MI,Michigan,Macomb,0,120,2,2
+MI,Michigan,Missaukee,0,2,2,1
+MI,Michigan,Crawford,1,86,1,0
+MI,Michigan,Marquette,1,111,1,0
+MI,Michigan,Keweenaw,2,32,0,1
+MO,Missouri,Clark,0,67,2,2
+MO,Missouri,Cooper,1,1,1,0
+MO,Missouri,Jefferson,0,30,2,2
+MO,Missouri,Pulaski,2,69,0,1
+MO,Missouri,Johnson,0,120,2,2
+MO,Missouri,Callaway,0,74,2,2
+MO,Missouri,Lincoln,1,99,2,2
+MO,Missouri,Boone,1,65,1,0
+MO,Missouri,Holt,2,33,2,1
+MO,Missouri,Greene,1,39,1,0
+MO,Missouri,Ray,1,68,2,0
+MS,Mississippi,Stone,1,54,1,0
+MS,Mississippi,George,0,84,2,2
+MT,Montana,Chouteau,1,42,1,0
+NC,North Carolina,Transylvania,0,88,2,2
+NC,North Carolina,Guilford,0,84,2,2
+NC,North Carolina,Granville,1,20,2,2
+NC,North Carolina,Brunswick,0,120,2,2
+NC,North Carolina,Pamlico,0,30,2,2
+NC,North Carolina,Moore,2,106,0,1
+NC,North Carolina,Stokes,0,73,0,1
+NC,North Carolina,Davidson,0,101,2,2
+NC,North Carolina,Hyde,1,85,1,0
+NC,North Carolina,Alexander,2,72,2,1
+NC,North Carolina,Pender,2,9,0,1
+NC,North Carolina,Stanly,1,13,1,0
+NC,North Carolina,Johnston,1,3,1,0
+NC,North Carolina,Forsyth,2,32,0,1
+NH,New Hampshire,Coos,2,119,0,1
+NJ,New Jersey,Camden,1,15,1,0
+NJ,New Jersey,Salem,2,89,0,1
+NJ,New Jersey,Atlantic,2,32,0,1
+NM,New Mexico,Quay,0,18,2,2
+NM,New Mexico,Lincoln,0,70,2,2
+NM,New Mexico,Bernalillo,1,49,1,0
+NM,New Mexico,Sandoval,0,53,2,2
+NV,Nevada,Washoe,0,37,2,2
+NV,Nevada,Lander,0,58,2,1
+NV,Nevada,Pershing,0,105,2,2
+NY,New York,Broome,1,83,2,2
+NY,New York,Queens,0,18,2,2
+NY,New York,Erie,1,111,1,0
+NY,New York,Fulton,0,26,2,1
+NY,New York,Otsego,1,6,2,2
+NY,New York,Orleans,0,46,2,2
+NY,New York,Yates,1,93,1,0
+NY,New York,Chenango,0,117,2,2
+NY,New York,Allegany,2,101,2,2
+OH,Ohio,Union,0,41,0,1
+OH,Ohio,Geauga,0,120,2,2
+OH,Ohio,Lake,2,78,0,1
+OH,Ohio,Warren,2,16,0,1
+OH,Ohio,Hancock,2,72,0,1
+OH,Ohio,Fairfield,0,102,0,1
+PA,Pennsylvania,Adams,2,110,0,1
+PA,Pennsylvania,Lebanon,0,67,2,2
+PA,Pennsylvania,Butler,2,0,2,2
+PA,Pennsylvania,Washington,0,97,0,1
+PA,Pennsylvania,Montour,2,73,0,1
+PA,Pennsylvania,Lancaster,1,111,2,2
+RI,Rhode Island,Kent,0,75,2,2
+SC,South Carolina,York,1,43,1,0
+SC,South Carolina,Dorchester,1,86,1,0
+SD,South Dakota,Mellette,0,88,2,1
+TX,Texas,San Augustine,2,32,0,1
+TX,Texas,Bailey,0,97,0,1
+TX,Texas,Hardeman,0,12,0,1
+TX,Texas,Zapata,1,62,1,0
+TX,Texas,Webb,2,97,0,1
+TX,Texas,Loving,1,59,2,2
+TX,Texas,Cameron,1,85,1,0
+UT,Utah,Iron,2,52,2,2
+VA,Virginia,Richmond City,0,18,2,2
+VA,Virginia,Wise,1,93,1,0
+VA,Virginia,Grayson,2,77,0,1
+VA,Virginia,Westmoreland,0,2,2,2
+VA,Virginia,Smyth,0,74,2,2
+VA,Virginia,Cumberland,0,5,2,2
+VA,Virginia,Northampton,0,117,2,2
+VA,Virginia,Norton City,0,59,2,2
+VA,Virginia,Bristol City,0,26,0,1
+VA,Virginia,Prince Edward,2,0,2,2
+VA,Virginia,Russell,1,56,1,0
+VT,Vermont,Orleans,1,85,1,0
+VT,Vermont,Bennington,2,112,0,1
+WA,Washington,Walla Walla,1,13,1,0
+WA,Washington,Garfield,2,119,0,1
+WA,Washington,Asotin,0,48,2,2
+WA,Washington,Douglas,0,63,2,2
+WA,Washington,Klickitat,1,111,1,0
+WI,Wisconsin,Rusk,1,19,1,0
+WI,Wisconsin,Burnett,0,87,2,2
+WI,Wisconsin,Iron,0,70,2,0
+WY,Wyoming,Albany,2,14,2,1
+AL,Alabama,Henry,1,39,1,0
+AL,Alabama,Limestone,0,34,0,1
+AL,Alabama,Cleburne,1,40,2,2
+AR,Arkansas,Pike,2,73,0,1
+AR,Arkansas,Cross,0,88,2,2
+AR,Arkansas,Jackson,2,113,0,1
+AR,Arkansas,Marion,0,26,0,1
+AR,Arkansas,Newton,0,84,2,0
+AR,Arkansas,Clark,0,102,0,1
+AR,Arkansas,Lincoln,2,103,0,1
+AR,Arkansas,Clay,2,9,0,1
+AR,Arkansas,Franklin,1,0,2,2
+AR,Arkansas,Columbia,2,4,2,2
+CA,California,Tulare,2,89,0,1
+FL,Florida,Marion,1,85,1,0
+FL,Florida,DeSoto,2,89,0,1
+FL,Florida,Hendry,1,90,2,2
+GA,Georgia,Clinch,2,79,0,1
+GA,Georgia,Colquitt,0,30,2,2
+GA,Georgia,Crisp,0,53,2,2
+GA,Georgia,Candler,2,89,0,1
+GA,Georgia,Richmond,2,60,0,1
+GA,Georgia,Decatur,1,68,1,0
+GA,Georgia,Jenkins,1,62,1,0
+GA,Georgia,Sumter,0,90,2,2
+GA,Georgia,Dooly,0,18,2,2
+GA,Georgia,Clarke,2,119,0,1
+GA,Georgia,Bibb,0,14,2,1
+KY,Kentucky,Robertson,2,97,0,1
+KY,Kentucky,Grayson,1,114,2,2
+KY,Kentucky,Ohio,2,55,0,1
+KY,Kentucky,Lawrence,0,40,2,2
+KY,Kentucky,Laurel,2,105,2,2
+KY,Kentucky,Lincoln,0,0,1,2
+KY,Kentucky,Rockcastle,2,113,0,1
+KY,Kentucky,Morgan,1,68,1,0
+KY,Kentucky,Montgomery,0,23,2,2
+KY,Kentucky,Letcher,1,3,1,0
+LA,Louisiana,Evangeline,0,58,2,1
+LA,Louisiana,Natchitoches,2,12,0,1
+LA,Louisiana,Washington,0,52,2,2
+LA,Louisiana,Bienville,1,49,1,0
+LA,Louisiana,St. Landry,0,95,2,2
+LA,Louisiana,St. Helena,2,9,0,1
+ME,Maine,Washington,1,40,1,2
+MO,Missouri,Pemiscot,0,26,0,1
+MO,Missouri,St. Louis City,0,84,2,2
+MO,Missouri,Dunklin,1,49,1,0
+MO,Missouri,Wright,2,79,0,1
+MS,Mississippi,Bolivar,1,114,2,2
+MS,Mississippi,Jefferson Davis,2,35,0,1
+MS,Mississippi,Tunica,0,53,2,2
+MS,Mississippi,Sunflower,1,68,1,0
+MT,Montana,Roosevelt,2,98,0,1
+NC,North Carolina,Bladen,2,79,2,1
+NM,New Mexico,Mora,2,91,2,2
+NM,New Mexico,Cibola,2,77,0,1
+OH,Ohio,Jefferson,1,44,1,0
+OH,Ohio,Athens,2,104,0,1
+OH,Ohio,Morgan,0,118,2,2
+OK,Oklahoma,Payne,1,90,2,2
+OK,Oklahoma,Osage,0,70,2,2
+OK,Oklahoma,Kay,1,6,2,2
+OK,Oklahoma,Tillman,0,87,2,2
+OK,Oklahoma,Carter,1,39,1,0
+OR,Oregon,Harney,0,97,0,1
+OR,Oregon,Malheur,1,71,1,0
+PA,Pennsylvania,Fayette,0,107,2,2
+SC,South Carolina,Colleton,1,68,1,0
+SC,South Carolina,Williamsburg,2,52,2,2
+TN,Tennessee,Davidson,0,58,2,1
+TN,Tennessee,Moore,0,26,0,1
+TN,Tennessee,Smith,0,114,2,2
+TN,Tennessee,Shelby,2,16,0,1
+TN,Tennessee,Montgomery,0,96,2,0
+TN,Tennessee,Tipton,1,19,1,0
+TN,Tennessee,Blount,0,21,0,1
+TN,Tennessee,Knox,1,86,1,0
+TN,Tennessee,Robertson,0,117,2,2
+TN,Tennessee,Loudon,0,82,2,1
+WV,West Virginia,Marion,0,53,2,2
+WV,West Virginia,Brooke,0,18,2,2
+WV,West Virginia,Ohio,2,110,0,1
+WV,West Virginia,Monongalia,1,1,1,0
+WV,West Virginia,Pleasants,0,23,2,2
+AK,Alaska,Wade Hampton,0,4,2,2
+AL,Alabama,Chambers,0,26,0,1
+AL,Alabama,Winston,0,53,2,2
+AL,Alabama,Russell,2,32,0,1
+AL,Alabama,Calhoun,1,39,1,0
+AL,Alabama,Talladega,1,64,1,0
+AL,Alabama,Coosa,0,78,2,1
+AL,Alabama,Clarke,0,58,2,1
+AL,Alabama,Marion,1,116,1,0
+AR,Arkansas,Nevada,0,24,2,2
+AR,Arkansas,Phillips,2,51,2,2
+KY,Kentucky,Jackson,0,67,2,2
+KY,Kentucky,Knox,2,103,0,1
+KY,Kentucky,Clay,1,39,1,0
+LA,Louisiana,Tensas,0,118,2,2
+MS,Mississippi,Humphreys,2,113,0,1
+NC,North Carolina,Robeson,2,26,0,1
+OK,Oklahoma,Cherokee,1,62,1,0
+OK,Oklahoma,Delaware,0,53,2,2
+OK,Oklahoma,Ottawa,2,104,0,1
+OK,Oklahoma,Sequoyah,1,74,2,2
+TN,Tennessee,Monroe,2,106,0,1
+TN,Tennessee,Hardin,1,56,1,0
+TN,Tennessee,Carter,1,85,1,0
+TN,Tennessee,Benton,0,75,2,2
+TN,Tennessee,Meigs,1,66,1,0
+TN,Tennessee,Lake,1,62,1,0
+TN,Tennessee,Jackson,0,80,2,2
+TN,Tennessee,Claiborne,2,16,0,1
+TN,Tennessee,Clay,1,92,1,0
+TN,Tennessee,Union,2,34,2,1
+TN,Tennessee,McNairy,0,63,2,2
+WV,West Virginia,Lincoln,1,83,2,2
+WV,West Virginia,Mercer,1,20,2,2
+WV,West Virginia,Braxton,0,48,2,1
+WV,West Virginia,Logan,0,53,2,2
+WV,West Virginia,Calhoun,1,1,1,0
+WV,West Virginia,Roane,1,93,1,0
+AK,Alaska,Aleutians East,0,18,2,2
+AK,Alaska,Kodiak Island,2,60,0,1
+CO,Colorado,Douglas,1,62,1,0
+IA,Iowa,Dallas,2,73,0,1
+MN,Minnesota,Isanti,0,24,2,2
+MN,Minnesota,Dodge,1,42,1,0
+MN,Minnesota,Scott,2,79,0,1
+MN,Minnesota,Dakota,2,60,0,1
+MN,Minnesota,Olmsted,2,21,0,1
+MN,Minnesota,Stearns,2,21,0,1
+MN,Minnesota,Wright,1,25,1,2
+MN,Minnesota,McLeod,1,111,1,2
+MN,Minnesota,Chisago,1,93,1,0
+ND,North Dakota,Cass,0,120,2,2
+ND,North Dakota,Richland,0,6,2,2
+ND,North Dakota,Sheridan,1,17,2,2
+ND,North Dakota,Morton,0,94,1,2
+ND,North Dakota,Dunn,0,18,2,2
+ND,North Dakota,McHenry,1,70,2,2
+ND,North Dakota,Traill,2,26,0,1
+ND,North Dakota,Walsh,0,88,0,1
+ND,North Dakota,Kidder,1,1,1,0
+ND,North Dakota,Mercer,0,87,2,2
+ND,North Dakota,Wells,1,93,1,0
+ND,North Dakota,Bottineau,2,106,0,1
+ND,North Dakota,Hettinger,0,70,2,2
+ND,North Dakota,Logan,2,103,0,1
+ND,North Dakota,Towner,1,39,1,0
+ND,North Dakota,McLean,0,48,2,2
+NE,Nebraska,Antelope,0,109,0,1
+NE,Nebraska,Phelps,1,15,1,0
+NE,Nebraska,Cedar,1,49,1,2
+NE,Nebraska,Cuming,0,75,2,1
+NE,Nebraska,Platte,0,86,1,0
+NE,Nebraska,Dixon,0,2,2,2
+NE,Nebraska,Fillmore,1,111,1,2
+NE,Nebraska,Custer,1,93,1,0
+NE,Nebraska,Thomas,0,95,2,2
+NE,Nebraska,Hamilton,0,75,2,2
+NE,Nebraska,Saunders,0,95,2,2
+NE,Nebraska,Howard,0,95,2,1
+NE,Nebraska,Polk,0,96,2,0
+NE,Nebraska,Kearney,0,120,2,2
+SD,South Dakota,McPherson,0,102,2,1
+SD,South Dakota,Campbell,2,35,0,1
+SD,South Dakota,Beadle,0,75,2,2
+SD,South Dakota,Fall River,1,29,1,0
+SD,South Dakota,Haakon,0,96,2,0
+SD,South Dakota,Lawrence,2,51,0,1
+SD,South Dakota,Minnehaha,2,98,0,1
+TX,Texas,Glasscock,1,114,2,2
+TX,Texas,Hartley,0,6,2,2
+TX,Texas,Roberts,2,12,0,1
+TX,Texas,Fort Bend,1,49,1,0
+TX,Texas,Borden,1,86,1,0
+VA,Virginia,Loudoun,2,103,0,1
+CA,California,San Francisco,1,24,2,2
+CO,Colorado,Arapahoe,0,81,2,2
+CO,Colorado,Weld,2,55,0,1
+CO,Colorado,Washington,0,120,2,2
+CO,Colorado,Lake,1,40,1,2
+CO,Colorado,Rio Blanco,1,115,1,0
+CO,Colorado,El Paso,0,6,2,2
+CO,Colorado,Gilpin,1,62,1,0
+CO,Colorado,Morgan,1,65,1,0
+CO,Colorado,Gunnison,0,100,2,1
+CO,Colorado,Archuleta,1,54,1,0
+CO,Colorado,Moffat,0,26,0,1
+IA,Iowa,Des Moines,2,97,0,1
+IA,Iowa,Taylor,2,12,0,1
+IA,Iowa,Woodbury,2,69,0,1
+IA,Iowa,Crawford,0,41,0,1
+IA,Iowa,Lucas,1,118,2,0
+IA,Iowa,Mahaska,1,15,1,0
+IA,Iowa,Ringgold,0,16,0,1
+IA,Iowa,Humboldt,0,101,2,2
+IA,Iowa,Appanoose,0,78,2,1
+IA,Iowa,Johnson,2,106,0,1
+IA,Iowa,Pottawattamie,0,2,2,2
+IA,Iowa,Clarke,1,17,2,0
+IA,Iowa,Lee,1,7,1,0
+IL,Illinois,McHenry,1,68,1,0
+IL,Illinois,Kendall,1,65,2,0
+IN,Indiana,Hamilton,1,67,2,2
+KS,Kansas,Seward,0,101,2,2
+KS,Kansas,Geary,0,79,2,1
+KS,Kansas,Osborne,2,21,0,1
+KS,Kansas,Anderson,1,2,2,2
+KS,Kansas,Barton,0,23,2,2
+KS,Kansas,Elk,2,73,0,1
+KS,Kansas,Russell,0,5,2,2
+KS,Kansas,Douglas,1,86,1,0
+KS,Kansas,Lincoln,0,90,2,2
+KS,Kansas,Republic,1,49,1,0
+KS,Kansas,Kiowa,0,67,2,2
+KS,Kansas,Saline,0,52,2,1
+KS,Kansas,Shawnee,1,68,1,0
+KS,Kansas,Clark,2,113,0,1
+KS,Kansas,Franklin,2,8,0,1
+KS,Kansas,Rice,1,25,1,0
+KS,Kansas,Sherman,1,68,1,0
+KS,Kansas,Stafford,0,120,2,2
+MD,Maryland,Prince George's,0,112,0,1
+MD,Maryland,Harford,1,30,2,2
+MD,Maryland,Anne Arundel,2,98,0,1
+MN,Minnesota,Kanabec,1,40,2,2
+MN,Minnesota,St. Louis,0,102,0,1
+MT,Montana,Broadwater,1,29,1,0
+MT,Montana,Park,1,86,1,0
+MT,Montana,Lewis and Clark,2,16,0,1
+MT,Montana,Judith Basin,1,7,1,0
+MT,Montana,McCone,1,96,1,0
+MT,Montana,Fergus,1,49,1,0
+MT,Montana,Powell,2,103,0,1
+MT,Montana,Custer,0,37,2,2
+NE,Nebraska,Scotts Bluff,1,6,2,2
+NE,Nebraska,Sheridan,2,73,0,1
+NJ,New Jersey,Middlesex,1,49,1,0
+NY,New York,Putnam,1,25,1,0
+SD,South Dakota,Lyman,0,61,2,2
+SD,South Dakota,Roberts,0,96,1,0
+TX,Texas,Franklin,0,30,2,2
+TX,Texas,Kimble,2,31,2,2
+TX,Texas,Llano,1,54,1,0
+TX,Texas,Hansford,0,84,2,2
+TX,Texas,Kent,0,58,2,2
+TX,Texas,Reagan,1,1,1,0
+TX,Texas,Freestone,0,48,2,1
+TX,Texas,Throckmorton,0,33,2,2
+TX,Texas,Washington,1,68,1,0
+TX,Texas,Childress,2,35,0,1
+TX,Texas,Hockley,2,76,0,1
+TX,Texas,Jones,0,30,2,2
+TX,Texas,Shackelford,2,2,2,2
+TX,Texas,Bastrop,0,84,2,2
+TX,Texas,Bexar,1,85,1,0
+TX,Texas,Tyler,0,90,2,2
+TX,Texas,Gray,1,62,2,2
+TX,Texas,Fisher,1,59,2,2
+TX,Texas,Reeves,0,60,0,1
+TX,Texas,Cooke,0,102,2,1
+TX,Texas,Upshur,0,82,2,2
+TX,Texas,Jeff Davis,1,71,1,0
+TX,Texas,Tarrant,1,99,2,2
+TX,Texas,McMullen,1,84,2,2
+TX,Texas,San Patricio,0,100,2,1
+TX,Texas,Medina,0,30,2,2
+TX,Texas,Calhoun,0,105,2,2
+TX,Texas,Orange,2,21,0,1
+TX,Texas,DeWitt,0,88,2,2
+TX,Texas,Montague,0,74,2,2
+TX,Texas,Gaines,0,101,2,2
+TX,Texas,Hardin,1,54,1,0
+TX,Texas,Rusk,1,50,2,0
+TX,Texas,Jack,0,70,1,0
+TX,Texas,Mills,0,14,2,1
+TX,Texas,Burleson,0,75,2,2
+TX,Texas,Rains,1,44,1,0
+TX,Texas,Victoria,2,55,0,1
+TX,Texas,Hemphill,1,1,1,0
+UT,Utah,Utah,0,58,0,1
+VA,Virginia,Isle of Wight,1,5,2,2
+VA,Virginia,Mathews,0,102,2,1
+VA,Virginia,Roanoke,0,34,0,1
+VA,Virginia,Culpeper,1,24,2,2
+VA,Virginia,Rockingham,1,15,1,0
+VA,Virginia,Bland,2,109,0,1
+VA,Virginia,Manassas City,1,29,1,0
+VA,Virginia,Warren,0,18,2,2
+VA,Virginia,Louisa,2,103,0,1
+VA,Virginia,Manassas Park City,1,85,1,0
+VA,Virginia,Spotsylvania,2,113,0,1
+VA,Virginia,Prince George,2,30,2,2
+VT,Vermont,Chittenden,0,23,2,2
+VT,Vermont,Washington,0,18,2,2
+VT,Vermont,Addison,0,87,2,2
+WI,Wisconsin,Outagamie,2,112,0,1
+WI,Wisconsin,Calumet,0,72,2,1
+WY,Wyoming,Weston,0,117,2,2
+WY,Wyoming,Johnson,1,86,1,0
+AK,Alaska,Prince of Wales-Outer Ketchikan,0,40,2,2
+AR,Arkansas,Saline,1,7,2,0
+AZ,Arizona,Pinal,2,110,0,2
+AZ,Arizona,Yavapai,0,117,2,2
+CA,California,Santa Barbara,0,53,2,2
+CA,California,Los Angeles,1,66,1,0
+CA,California,San Luis Obispo,1,99,2,2
+CA,California,San Benito,1,6,2,2
+CA,California,Sonoma,2,104,0,1
+CA,California,San Diego,1,70,2,2
+CA,California,Lassen,2,35,0,1
+CA,California,Mono,2,89,0,1
+CA,California,Solano,1,44,1,0
+CO,Colorado,Otero,1,1,1,0
+CO,Colorado,Crowley,1,19,1,0
+CO,Colorado,Costilla,2,113,0,1
+CO,Colorado,Pueblo,2,26,0,1
+CO,Colorado,Conejos,0,67,2,2
+FL,Florida,Clay,1,45,1,0
+FL,Florida,Wakulla,2,113,0,1
+FL,Florida,Monroe,2,101,2,2
+FL,Florida,Sumter,1,71,1,0
+GA,Georgia,Henry,2,58,2,1
+GA,Georgia,Jones,1,111,2,2
+GA,Georgia,Barrow,2,112,0,1
+GA,Georgia,Camden,0,12,0,1
+GA,Georgia,Jackson,1,67,2,2
+GA,Georgia,Walton,2,35,0,1
+GA,Georgia,Oglethorpe,0,81,2,2
+ID,Idaho,Elmore,0,114,2,2
+ID,Idaho,Cassia,2,87,2,2
+ID,Idaho,Boundary,0,120,2,2
+ID,Idaho,Nez Perce,1,66,1,0
+ID,Idaho,Bannock,2,109,0,1
+ID,Idaho,Payette,1,6,2,2
+ID,Idaho,Butte,0,67,2,2
+ID,Idaho,Gem,1,93,1,0
+IL,Illinois,Edwards,0,40,2,2
+IL,Illinois,Kankakee,2,98,0,1
+IL,Illinois,Bond,0,61,2,2
+IL,Illinois,Jefferson,2,103,0,1
+IL,Illinois,Stephenson,1,111,1,2
+IL,Illinois,Williamson,0,105,2,2
+IL,Illinois,Wayne,2,91,2,1
+IL,Illinois,Mason,0,87,2,2
+IL,Illinois,Richland,2,9,2,2
+IL,Illinois,Pike,2,120,2,2
+IL,Illinois,Warren,1,54,1,0
+IL,Illinois,Clay,2,119,0,1
+IL,Illinois,Peoria,0,102,0,1
+IL,Illinois,Fayette,0,105,2,2
+IL,Illinois,Greene,1,15,1,0
+IL,Illinois,DeKalb,0,52,2,2
+IN,Indiana,Warren,0,27,2,2
+IN,Indiana,Jasper,0,26,0,1
+IN,Indiana,Dubois,2,4,2,2
+IN,Indiana,Whitley,2,31,0,1
+IN,Indiana,Johnson,1,40,1,2
+IN,Indiana,Ripley,2,55,0,1
+IN,Indiana,Posey,1,43,1,0
+KS,Kansas,Wyandotte,2,76,0,1
+KY,Kentucky,Boone,2,78,2,2
+KY,Kentucky,Spencer,0,90,2,2
+LA,Louisiana,Ascension,2,119,0,1
+LA,Louisiana,St. Tammany,2,106,0,1
+MA,Massachusetts,Worcester,0,105,2,2
+MA,Massachusetts,Nantucket,0,46,2,2
+MA,Massachusetts,Barnstable,0,27,2,2
+MD,Maryland,Caroline,1,102,2,2
+MD,Maryland,Cecil,1,49,1,0
+MI,Michigan,Allegan,1,107,2,2
+MI,Michigan,Sanilac,1,44,1,0
+MI,Michigan,Lenawee,2,106,0,1
+MI,Michigan,Monroe,0,105,2,2
+MI,Michigan,Shiawassee,1,59,2,2
+MI,Michigan,Charlevoix,2,113,0,1
+MI,Michigan,Gratiot,0,107,2,2
+MI,Michigan,Huron,2,73,0,1
+MI,Michigan,Benzie,1,7,1,0
+MI,Michigan,Dickinson,1,53,2,2
+MI,Michigan,Otsego,0,0,2,2
+MO,Missouri,Cass,0,101,2,2
+MO,Missouri,Ste. Genevieve,0,84,2,2
+MO,Missouri,Cole,1,86,2,0
+MO,Missouri,Perry,0,117,2,2
+MO,Missouri,Franklin,1,17,2,2
+MO,Missouri,Warren,2,106,0,1
+MO,Missouri,Moniteau,1,62,1,0
+MO,Missouri,Christian,1,108,1,0
+MO,Missouri,Clinton,0,5,2,2
+MO,Missouri,Atchison,1,108,1,0
+MO,Missouri,Lafayette,0,34,2,2
+MS,Mississippi,Jackson,2,119,0,1
+MS,Mississippi,Lamar,1,53,2,2
+MT,Montana,Hill,2,106,0,1
+MT,Montana,Sanders,2,77,0,1
+MT,Montana,Rosebud,2,79,0,1
+MT,Montana,Meagher,0,53,2,2
+MT,Montana,Pondera,0,50,2,0
+NC,North Carolina,Catawba,0,11,2,2
+NC,North Carolina,Iredell,0,117,2,2
+NC,North Carolina,Davie,2,76,0,1
+NC,North Carolina,Craven,0,23,2,1
+NC,North Carolina,Cabarrus,2,31,2,2
+NC,North Carolina,Lincoln,2,12,0,1
+NC,North Carolina,Chatham,2,109,0,1
+NC,North Carolina,Carteret,1,92,1,0
+NC,North Carolina,Henderson,2,89,2,1
+NC,North Carolina,Buncombe,1,71,1,0
+NH,New Hampshire,Cheshire,2,110,0,1
+NH,New Hampshire,Strafford,0,94,1,2
+NJ,New Jersey,Gloucester,0,102,0,1
+NJ,New Jersey,Essex,2,48,0,1
+NJ,New Jersey,Passaic,1,29,1,0
+NM,New Mexico,Catron,1,39,1,0
+NM,New Mexico,Colfax,1,1,1,0
+NM,New Mexico,Curry,2,55,0,1
+NM,New Mexico,Harding,1,111,2,2
+NV,Nevada,Eureka,2,103,0,1
+NV,Nevada,Elko,2,2,2,2
+NV,Nevada,Clark,0,61,1,0
+NV,Nevada,White Pine,0,34,2,1
+NY,New York,Chemung,1,3,1,0
+NY,New York,Clinton,2,119,0,1
+NY,New York,Oneida,0,81,2,2
+NY,New York,Delaware,0,4,2,2
+NY,New York,Tompkins,1,5,2,2
+NY,New York,Onondaga,2,35,0,1
+NY,New York,Cortland,0,40,2,2
+NY,New York,Livingston,2,112,0,1
+NY,New York,Schuyler,0,101,2,2
+NY,New York,Herkimer,2,32,0,1
+NY,New York,Jefferson,0,24,2,2
+NY,New York,Schenectady,1,40,2,2
+NY,New York,Genesee,2,32,0,1
+NY,New York,Monroe,1,85,1,0
+OH,Ohio,Medina,0,30,2,2
+OR,Oregon,Gilliam,0,84,2,2
+PA,Pennsylvania,Cumberland,2,51,2,2
+PA,Pennsylvania,Bucks,0,67,2,2
+TX,Texas,Willacy,1,20,2,2
+TX,Texas,El Paso,0,120,2,2
+TX,Texas,Uvalde,2,26,0,1
+TX,Texas,Hall,2,119,0,1
+TX,Texas,Presidio,0,117,2,2
+TX,Texas,Culberson,1,50,1,0
+TX,Texas,Falls,0,6,2,2
+UT,Utah,Garfield,1,40,2,2
+UT,Utah,Grand,1,45,1,0
+VA,Virginia,Lexington City,0,53,2,2
+VA,Virginia,Sussex,1,22,1,0
+VA,Virginia,Brunswick,0,58,2,1
+VA,Virginia,Waynesboro City,1,43,1,0
+VA,Virginia,Mecklenburg,0,102,2,2
+VA,Virginia,Charlottesville City,2,113,0,1
+VA,Virginia,Nottoway,1,17,2,2
+VA,Virginia,Lynchburg City,2,89,0,1
+VA,Virginia,Roanoke City,0,15,1,0
+VA,Virginia,Tazewell,1,45,1,0
+VA,Virginia,Hopewell City,1,43,1,0
+VA,Virginia,Portsmouth City,0,107,2,2
+VA,Virginia,Scott,1,46,2,2
+VA,Virginia,Dickenson,1,114,2,2
+VA,Virginia,Buckingham,1,45,1,0
+VA,Virginia,Staunton City,0,87,2,2
+VA,Virginia,Carroll,0,97,0,1
+VA,Virginia,Patrick,2,16,0,1
+VA,Virginia,Charlotte,2,112,0,1
+VA,Virginia,Essex,0,34,2,1
+VT,Vermont,Orange,1,115,1,0
+WA,Washington,Island,0,4,2,2
+WA,Washington,Benton,0,113,0,1
+WA,Washington,Spokane,0,119,2,1
+WA,Washington,Whatcom,2,120,2,2
+WA,Washington,Clark,0,81,2,2
+WA,Washington,Clallam,2,9,0,1
+WI,Wisconsin,Clark,0,97,0,1
+WI,Wisconsin,Washburn,1,45,1,0
+WI,Wisconsin,Jackson,2,112,0,1
+WI,Wisconsin,Bayfield,1,42,1,0
+AL,Alabama,Baldwin,1,93,1,0
+AR,Arkansas,Randolph,2,38,0,1
+AR,Arkansas,Little River,2,32,0,1
+AR,Arkansas,Yell,2,79,2,1
+AR,Arkansas,Baxter,1,15,1,0
+AR,Arkansas,Arkansas,2,16,0,1
+AR,Arkansas,Fulton,1,15,1,0
+AR,Arkansas,Conway,0,6,2,2
+AR,Arkansas,Calhoun,2,105,2,2
+AR,Arkansas,Carroll,0,70,2,2
+AR,Arkansas,Logan,0,18,2,2
+CA,California,Fresno,0,120,2,2
+CA,California,Madera,1,99,2,2
+CA,California,Modoc,0,84,2,2
+CA,California,Imperial,0,73,0,1
+CA,California,Mendocino,0,12,0,1
+CA,California,Butte,1,56,2,0
+CA,California,Lake,1,107,2,2
+FL,Florida,Osceola,1,54,1,0
+FL,Florida,Madison,1,111,1,2
+FL,Florida,Hamilton,0,57,2,2
+GA,Georgia,Webster,2,4,2,2
+GA,Georgia,Screven,2,35,0,1
+GA,Georgia,Clayton,0,96,2,2
+GA,Georgia,Turner,1,111,2,2
+GA,Georgia,Miller,0,70,2,2
+GA,Georgia,Washington,0,37,2,2
+GA,Georgia,Berrien,0,101,2,2
+GA,Georgia,Tift,2,32,0,1
+GA,Georgia,Thomas,0,48,2,2
+GA,Georgia,Echols,2,103,0,1
+GA,Georgia,Evans,2,73,0,1
+GA,Georgia,Cook,1,42,1,0
+GA,Georgia,Coffee,0,67,2,2
+GA,Georgia,Upson,2,91,2,1
+GA,Georgia,Wilkinson,1,68,1,0
+GA,Georgia,Brooks,0,30,2,2
+GA,Georgia,Jasper,1,44,1,0
+GA,Georgia,Chattooga,2,32,0,1
+GA,Georgia,Greene,1,62,2,0
+GA,Georgia,Early,2,72,0,1
+GA,Georgia,Meriwether,2,79,0,1
+GA,Georgia,Lanier,2,14,2,1
+IL,Illinois,Jackson,1,86,1,0
+IN,Indiana,Starke,1,111,1,0
+IN,Indiana,Marion,1,114,2,2
+IN,Indiana,Vigo,2,105,0,2
+IN,Indiana,Fulton,2,89,0,1
+IN,Indiana,Parke,0,0,2,2
+IN,Indiana,Grant,1,115,1,0
+IN,Indiana,Lake,0,23,2,2
+IN,Indiana,Switzerland,1,43,1,0
+IN,Indiana,Madison,0,96,2,2
+KY,Kentucky,McLean,1,99,1,2
+KY,Kentucky,Larue,2,16,0,1
+KY,Kentucky,Hickman,1,116,1,0
+KY,Kentucky,Edmonson,0,105,2,2
+KY,Kentucky,Allen,0,102,0,1
+KY,Kentucky,Logan,1,108,1,0
+KY,Kentucky,Carlisle,2,73,0,1
+KY,Kentucky,Boyle,1,68,1,0
+KY,Kentucky,Green,0,105,2,2
+LA,Louisiana,Sabine,2,97,0,1
+LA,Louisiana,Acadia,1,86,1,0
+LA,Louisiana,St. Mary,0,61,1,0
+LA,Louisiana,Ouachita,0,57,2,2
+LA,Louisiana,Union,1,111,2,2
+LA,Louisiana,Orleans,1,7,2,0
+LA,Louisiana,West Carroll,0,117,2,2
+LA,Louisiana,Claiborne,1,17,1,0
+MA,Massachusetts,Plymouth,0,75,2,2
+ME,Maine,Aroostook,2,98,0,1
+MI,Michigan,Isabella,0,48,2,2
+MO,Missouri,Crawford,1,86,1,0
+MO,Missouri,Wayne,2,32,0,1
+MO,Missouri,Douglas,0,18,2,2
+MO,Missouri,Adair,2,104,0,1
+MO,Missouri,Carter,0,53,2,2
+MO,Missouri,Schuyler,1,118,2,2
+MO,Missouri,Howell,0,2,2,2
+MO,Missouri,Reynolds,1,49,1,0
+MO,Missouri,New Madrid,2,69,0,1
+MO,Missouri,Butler,2,31,0,2
+MO,Missouri,Hickory,0,37,2,2
+MS,Mississippi,Jasper,2,12,0,1
+MS,Mississippi,Wayne,2,106,0,1
+MS,Mississippi,Amite,0,18,2,2
+MS,Mississippi,Chickasaw,1,75,2,2
+MS,Mississippi,Pike,0,53,2,2
+MS,Mississippi,Winston,0,118,2,2
+NC,North Carolina,Bertie,1,99,2,2
+NC,North Carolina,Edgecombe,2,113,0,1
+NC,North Carolina,Sampson,0,37,2,2
+NC,North Carolina,Watauga,0,27,2,1
+NC,North Carolina,Columbus,2,103,0,1
+NC,North Carolina,Anson,2,79,0,1
+NC,North Carolina,Northampton,1,43,1,0
+NC,North Carolina,Hertford,0,37,2,2
+NC,North Carolina,Vance,2,32,0,1
+NC,North Carolina,Halifax,1,44,1,0
+NM,New Mexico,Socorro,1,111,1,2
+NM,New Mexico,San Miguel,2,73,0,1
+NV,Nevada,Mineral,0,95,2,2
+OH,Ohio,Ashtabula,0,83,2,2
+OH,Ohio,Coshocton,0,120,2,2
+OH,Ohio,Washington,2,98,0,1
+OH,Ohio,Perry,1,20,2,2
+OH,Ohio,Holmes,0,81,2,2
+OH,Ohio,Clark,1,43,1,0
+OH,Ohio,Clinton,0,26,0,1
+OH,Ohio,Belmont,0,107,2,2
+OK,Oklahoma,Lincoln,0,58,2,2
+OK,Oklahoma,Ellis,2,79,0,1
+OK,Oklahoma,Custer,2,98,0,1
+OK,Oklahoma,Stephens,0,100,2,2
+OK,Oklahoma,Jackson,2,103,0,1
+OK,Oklahoma,Garfield,2,21,0,1
+OR,Oregon,Linn,1,0,2,2
+OR,Oregon,Crook,1,22,1,0
+OR,Oregon,Lincoln,1,71,1,0
+OR,Oregon,Coos,0,27,2,1
+PA,Pennsylvania,Clarion,1,40,2,2
+SC,South Carolina,Union,1,40,1,2
+SC,South Carolina,Abbeville,0,83,2,2
+SC,South Carolina,Cherokee,0,78,2,1
+SC,South Carolina,Spartanburg,1,49,1,0
+SC,South Carolina,Laurens,0,2,2,2
+SC,South Carolina,Chester,0,80,2,2
+SD,South Dakota,Buffalo,2,89,2,1
+VA,Virginia,Radford City,2,91,0,1
+WA,Washington,Okanogan,1,49,1,0
+AL,Alabama,Jackson,2,106,0,1
+AL,Alabama,Crenshaw,2,72,0,1
+AL,Alabama,Tallapoosa,1,53,2,2
+AL,Alabama,Cherokee,2,72,0,2
+AL,Alabama,Randolph,2,35,0,1
+AL,Alabama,DeKalb,0,37,2,2
+AL,Alabama,Cullman,1,20,1,0
+AL,Alabama,Fayette,1,29,1,0
+AL,Alabama,Barbour,0,101,2,2
+AL,Alabama,Montgomery,2,9,0,1
+AR,Arkansas,St. Francis,0,53,2,2
+AR,Arkansas,Monroe,2,113,0,1
+AR,Arkansas,Mississippi,2,90,2,2
+AR,Arkansas,Lee,0,76,0,1
+AR,Arkansas,Howard,1,45,1,0
+AR,Arkansas,Bradley,2,73,0,1
+GA,Georgia,Calhoun,0,53,2,2
+KY,Kentucky,Perry,1,62,1,0
+KY,Kentucky,Leslie,2,12,0,1
+KY,Kentucky,Bath,1,6,2,2
+KY,Kentucky,Pike,2,89,0,1
+MS,Mississippi,Claiborne,2,21,0,1
+MS,Mississippi,Jefferson,0,117,2,2
+MS,Mississippi,Quitman,2,119,0,1
+MS,Mississippi,Leflore,0,84,2,2
+OH,Ohio,Scioto,0,30,2,2
+OK,Oklahoma,Okfuskee,2,32,0,1
+OK,Oklahoma,Le Flore,0,102,0,1
+OK,Oklahoma,Hughes,0,100,2,2
+OK,Oklahoma,Pontotoc,0,81,2,2
+OK,Oklahoma,Pushmataha,2,75,2,2
+OK,Oklahoma,McCurtain,0,37,2,2
+SC,South Carolina,Allendale,0,18,2,2
+SD,South Dakota,Shannon,2,48,2,2
+TN,Tennessee,Morgan,2,119,0,1
+TN,Tennessee,Rhea,0,117,2,2
+TN,Tennessee,Coffee,0,120,2,2
+TN,Tennessee,Greene,2,97,0,1
+TN,Tennessee,Lincoln,0,0,2,2
+TN,Tennessee,Sequatchie,1,96,2,2
+TN,Tennessee,Sullivan,1,63,1,2
+TN,Tennessee,Wayne,0,80,2,2
+TN,Tennessee,McMinn,2,55,0,1
+TN,Tennessee,Giles,2,69,0,1
+TN,Tennessee,Hawkins,2,32,0,1
+TN,Tennessee,Lewis,0,23,0,1
+TN,Tennessee,Hamblen,0,84,2,2
+TN,Tennessee,Gibson,0,23,2,1
+TN,Tennessee,Lawrence,0,33,2,2
+TN,Tennessee,Bledsoe,0,102,2,1
+TN,Tennessee,Overton,0,0,2,2
+TN,Tennessee,Unicoi,1,22,1,0
+TN,Tennessee,Franklin,0,34,0,1
+WV,West Virginia,Mineral,0,57,0,1
+WV,West Virginia,Pendleton,0,4,2,2
+WV,West Virginia,Ritchie,1,39,1,0
+WV,West Virginia,Randolph,1,42,1,0
+WV,West Virginia,Tucker,0,114,2,2
+WV,West Virginia,Hampshire,0,40,2,2
+WV,West Virginia,Kanawha,2,78,2,1
+WV,West Virginia,Lewis,0,118,2,2
+WV,West Virginia,Pocahontas,1,42,1,0
+WV,West Virginia,Hardy,2,38,0,1
+WV,West Virginia,Nicholas,1,92,1,0
+WV,West Virginia,Wetzel,2,91,2,2

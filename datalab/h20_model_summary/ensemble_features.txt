@@ -1,0 +1,32 @@
+Relative Importance,Feature,Description
+1,2_Length_of_Life_pctile_within_state,Length_of_Life_pctile_within_state (original)
+0.43236,23_pct_Rural,pct_Rural (original)
+0.2404,20_pct_Excessive_Drinking,pct_Excessive_Drinking (original)
+0.18033,15_TEDSA_DSMCRIT_14,TEDSA_DSMCRIT_14 (original)
+0.18017,16_TEDSA_DSMCRIT_5,TEDSA_DSMCRIT_5 (original)
+0.17573,17_TEDSA_FRSTUSE2_7,TEDSA_FRSTUSE2_7 (original)
+0.16367,7_NMHSS_OPRACEPERBLK_1,NMHSS_OPRACEPERBLK_1 (original)
+0.12235,22_pct_Physically_Inactive,pct_Physically_Inactive (original)
+0.11803,10_Preventable_Hospitalization_rate,Preventable_Hospitalization_rate (original)
+0.10352,19_pct_Diabetic,pct_Diabetic (original)
+0.1032,6_NMHSS_IPRACETOTASIAN_41 to 50,NMHSS_IPRACETOTASIAN_41 to 50 (original)
+0.095526,14_TEDSA_ARRESTS_-9,TEDSA_ARRESTS_-9 (original)
+0.08657,25_pct_Some_College,pct_Some_College (original)
+0.083797,13_TEDSA_AGE_8,TEDSA_AGE_8 (original)
+0.077761,18_TEDSA_FRSTUSE3_5,TEDSA_FRSTUSE3_5 (original)
+0.07734,1_Health_Factors_pctile_within_state,Health_Factors_pctile_within_state (original)
+0.076326,8_NMHSS_TREATFAMTHRPY,NMHSS_TREATFAMTHRPY (original)
+0.074907,26_TEDSA_SUB3_7,TEDSA_SUB3_7 (original)
+0.074836,5_NMHSS_IPRACEPERUNK_2,NMHSS_IPRACEPERUNK_2 (original)
+0.061344,21_pct_Frequent_Mental_Distress,pct_Frequent_Mental_Distress (original)
+0.060345,3_Median_Household_Income,Median_Household_Income (original)
+0.056541,24_pct_Smokers,pct_Smokers (original)
+0.052907,11_RetailDrug_AMPHETAMINE,RetailDrug_AMPHETAMINE (original)
+0.050499,4_NMHSS_FOCUS_Mental health treatment,NMHSS_FOCUS_Mental health treatment (original)
+0.048882,9_NMHSS_TREATTRAUMATHRPY,NMHSS_TREATTRAUMATHRPY (original)
+0.044091,12_RetailDrug_TAPENTADOL,RetailDrug_TAPENTADOL (original)
+0.040825,0_Freq:County,Encoding of categorical levels of feature(s) ['County'] to value between 0 and 1 based on their relative frequency
+0.031829,30_TEDSA_ARRESTS_0,TEDSA_ARRESTS_0 (original)
+0.02332,28_Freq:STATE,Encoding of categorical levels of feature(s) ['STATE'] to their counts
+0.011466,27_Freq:County,Encoding of categorical levels of feature(s) ['County'] to their counts
+0.0031345,29_Freq:STATE,Encoding of categorical levels of feature(s) ['STATE'] to value between 0 and 1 based on their relative frequency

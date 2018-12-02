@@ -1,0 +1,31 @@
+Experiment: nucodewo, 2018-11-24 22:35, 1.3.1
+  Settings: 7/6/6, seed=194578974, GPUs disabled
+  Train data: 100_Best_Features.csv (3141, 103)
+  Validation data: N/A
+  Test data: N/A
+  Target column: Drug_Overdose_Mortality_Rate (regression, sqrt-transformed)
+System specs: Linux, 15 GB, 4 CPU cores, 0/0 GPU
+  Max memory usage: 1.6 GB, 0 GB GPU
+Recipe: AutoDL (149 iterations, 4 individuals)
+  Validation scheme: random, 6 internal holdouts (6-fold CV)
+  Feature engineering: 9416 features tested (31 selected)
+Timing:
+  Data preparation: 8.65 secs
+  Model and feature tuning: 2883.97 secs (295 of 336 models trained)
+  Feature evolution: 2509.91 secs (1212 of 1224 models trained)
+  Final pipeline training: 158.23 secs (6 models trained)
+Validation score: RMSE = 5.0709 +/- 0.31347 (baseline)
+Validation score: RMSE = 5.0203 +/- 0.29053 (final pipeline)
+Test score:       RMSE = N/A
+
+Final validation scores (internal holdout) +/- stddev:
+                  GINI = 0.68861 +/- 0.02215 (more is better)
+                    R2 = 0.43681 +/- 0.062708 (more is better)
+                   MSE = 25.313 +/- 2.9173 (less is better)
+                 RMSLE = 0.24628 +/- 0.0078511 (less is better)
+                 RMSPE = 0.31386 +/- 0.019966 (less is better)
+                   MAE = 3.0992 +/- 0.11826 (less is better)
+                   MER = 11.387 +/- 0.62292 (less is better)
+                  MAPE = 19.579 +/- 0.82387 (less is better)
+                 SMAPE = 17.936 +/- 0.60953 (less is better)
+       optimized: RMSE = 5.0203 +/- 0.29053 (less is better)

@@ -1,0 +1,32 @@
+Relative Importance,Feature,Description
+1,3_Length_of_Life_pctile_within_state,Length_of_Life_pctile_within_state (original)
+0.56244,99_pct_Rural,pct_Rural (original)
+0.27188,96_pct_Excessive_Drinking,pct_Excessive_Drinking (original)
+0.21294,35_Preventable_Hospitalization_rate,Preventable_Hospitalization_rate (original)
+0.19684,98_pct_Physically_Inactive,pct_Physically_Inactive (original)
+0.19634,48_TEDSA_DSMCRIT_14,TEDSA_DSMCRIT_14 (original)
+0.19118,2_Health_Factors_pctile_within_state,Health_Factors_pctile_within_state (original)
+0.17977,57_TEDSA_FRSTUSE2_7,TEDSA_FRSTUSE2_7 (original)
+0.17553,95_pct_Diabetic,pct_Diabetic (original)
+0.17121,101_pct_Some_College,pct_Some_College (original)
+0.17041,53_TEDSA_DSMCRIT_5,TEDSA_DSMCRIT_5 (original)
+0.15925,25_NMHSS_OPRACEPERBLK_1,NMHSS_OPRACEPERBLK_1 (original)
+0.15849,4_Median_Household_Income,Median_Household_Income (original)
+0.15177,97_pct_Frequent_Mental_Distress,pct_Frequent_Mental_Distress (original)
+0.13573,100_pct_Smokers,pct_Smokers (original)
+0.10383,0_Freq:County,Encoding of categorical levels of feature(s) ['County'] to value between 0 and 1 based on their relative frequency
+0.093431,64_TEDSA_FRSTUSE3_5,TEDSA_FRSTUSE3_5 (original)
+0.089939,29_NMHSS_TREATFAMTHRPY,NMHSS_TREATFAMTHRPY (original)
+0.088636,42_TEDSA_AGE_8,TEDSA_AGE_8 (original)
+0.087789,43_TEDSA_ARRESTS_-9,TEDSA_ARRESTS_-9 (original)
+0.078684,12_NMHSS_IPRACEPERUNK_2,NMHSS_IPRACEPERUNK_2 (original)
+0.077715,6_NMHSS_FOCUS_Mental health treatment,NMHSS_FOCUS_Mental health treatment (original)
+0.077356,30_NMHSS_TREATTRAUMATHRPY,NMHSS_TREATTRAUMATHRPY (original)
+0.077334,41_RetailDrug_TAPENTADOL,RetailDrug_TAPENTADOL (original)
+0.076223,16_NMHSS_IPRACETOTASIAN_41 to 50,NMHSS_IPRACETOTASIAN_41 to 50 (original)
+0.06751,37_RetailDrug_AMPHETAMINE,RetailDrug_AMPHETAMINE (original)
+0.066559,333_TEDSA_SUB3_7,TEDSA_SUB3_7 (original)
+0.050248,335_Freq:STATE,Encoding of categorical levels of feature(s) ['STATE'] to their counts
+0.042598,337_TEDSA_ARRESTS_0,TEDSA_ARRESTS_0 (original)
+0.019082,334_Freq:County,Encoding of categorical levels of feature(s) ['County'] to their counts
+0.0087039,336_Freq:STATE,Encoding of categorical levels of feature(s) ['STATE'] to value between 0 and 1 based on their relative frequency

@@ -1,0 +1,27 @@
+Experiment: nucodewo
+
+ACCURACY [7/10]:
+- Training data size: *3,141 rows, 103 cols*
+- Feature evolution: *XGBoost*, *3-fold CV**, 2 reps*
+- Final pipeline: *Ensemble (1xGLM, 1xXGBoost), 3-fold CV*
+
+TIME [6/10]:
+- Feature evolution: *4 individuals*, up to *156 iterations*
+- Early stopping: After *10* iterations of no improvement
+
+INTERPRETABILITY [6/10]:
+- Feature pre-pruning strategy: FS
+- Monotonicity constraints: disabled
+- Feature engineering search space (where applicable): [Date, FrequencyEncoding, Identity, Interactions, NumEncoding, TargetEncoding, Text, WeightOfEvidence]
+
+XGBoost models to train:
+- Target transform tuning: *48*
+- Model and feature tuning: *288*
+- Feature evolution: *1224*
+- Final pipeline: *6*
+
+Estimated max. total memory usage:
+- Feature engineering: *8.0MB*
+- CPU XGBoost: *8.0MB*
+
+Estimated runtime: *1 hour*
